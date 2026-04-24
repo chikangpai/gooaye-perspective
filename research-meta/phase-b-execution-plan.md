@@ -36,8 +36,8 @@
 - 抽取方法論：~/.claude/skills/gooaye-perspective/references/extraction-framework.md
 
 ===== 你的素材範圍 =====
-[For B00:] /Users/brandonpai/Desktop/3-Projects-Gooaye/gooaye-podcast/interview-transcript/ 下 7 份 md
-[For B01-B12:] /Users/brandonpai/Desktop/3-Projects-Gooaye/gooaye-podcast/episodes/EP{lo}_*.md 到 EP{hi}_*.md
+[For B00:] /Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/interview-transcript/ 下 7 份 md
+[For B01-B12:] /Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/episodes/EP{lo}_*.md 到 EP{hi}_*.md
 [清單直接從 batch-index.json 讀 batches[ID].episodes]
 
 ===== 輸出位置 =====
@@ -178,7 +178,7 @@
 
 如果是換機器接續，執行順序：
 1. 確認 `~/.claude/skills/gooaye-perspective/` 完整（見 RESUMING-ON-NEW-MACHINE.md）
-2. 確認 corpus 路徑：`/Users/brandonpai/Desktop/3-Projects-Gooaye/gooaye-podcast/` 下 `episodes/` 和 `interview-transcript/` 都在
+2. 確認 corpus 路徑：`/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/` 下 `episodes/` 和 `interview-transcript/` 都在
 3. 跑 `python3 ~/.claude/skills/gooaye-perspective/scripts/validate_phase_a.py`（待建 — 新機器接續時順便寫）
 4. 開 Claude Code session，說：「繼續 gooaye-perspective 蒸餾，從 Phase B Wave 1 開始」
 5. 主 agent 會 read PLAN.md → read phase-b-execution-plan.md → spawn subagents

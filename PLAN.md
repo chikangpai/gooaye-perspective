@@ -51,9 +51,9 @@
 
 | 類型 | 路徑 | 規模 |
 |---|---|---|
-| Podcast transcripts | `/Users/brandonpai/Desktop/3-Projects-Gooaye/gooaye-podcast/episodes/` | 643 `.md` / 36 MB |
-| Interview transcripts | `/Users/brandonpai/Desktop/3-Projects-Gooaye/gooaye-podcast/interview-transcript/` | 7 `.md` / 384 KB |
-| Metadata JSON | `/Users/brandonpai/Desktop/3-Projects-Gooaye/gooaye-podcast/episodes.json` | — |
+| Podcast transcripts | `/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/episodes/` | 643 `.md` / 36 MB |
+| Interview transcripts | `/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/interview-transcript/` | 7 `.md` / 384 KB |
+| Metadata JSON | `/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/episodes.json` | — |
 
 換機器時這些路徑要重新 remap，見 `RESUMING-ON-NEW-MACHINE.md`。
 
@@ -114,5 +114,5 @@
 
 **Q: 能分享給朋友嗎？**
 整個 `~/.claude/skills/gooaye-perspective/` 目錄是 self-contained，可以打包 / git push。但注意：
-- 外部語料（`/Users/brandonpai/Desktop/3-Projects-Gooaye/`）不在其中，朋友收到的 skill 是**已經蒸餾好的成品**，不需要原始語料
+- 外部語料（`/Users/chikangpai/Desktop/3-Projects-Gooaye/`）不在其中，朋友收到的 skill 是**已經蒸餾好的成品**，不需要原始語料
 - 若朋友想自己蒸餾則需要自備語料

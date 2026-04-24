@@ -80,7 +80,7 @@ ls ~/.claude/skills/gooaye-perspective/research-meta/
 
 ### 新機器上的語料路徑
 
-**原機器路徑**：`/Users/brandonpai/Desktop/3-Projects-Gooaye/gooaye-podcast/`
+**原機器路徑**：`/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/`
 
 **新機器上必須確保**：
 - `episodes/`（643 個 `EPxxx_*.md`，36 MB）
@@ -91,8 +91,8 @@ ls ~/.claude/skills/gooaye-perspective/research-meta/
 
 ```bash
 # 若新機器路徑相同，直接 rsync
-rsync -avz -e ssh 原機器IP:/Users/brandonpai/Desktop/3-Projects-Gooaye/ \
-  /Users/brandonpai/Desktop/3-Projects-Gooaye/
+rsync -avz -e ssh 原機器IP:/Users/chikangpai/Desktop/3-Projects-Gooaye/ \
+  /Users/chikangpai/Desktop/3-Projects-Gooaye/
 
 # 若新機器路徑不同，修改後檢查：
 export GOOAYE_CORPUS="/NEW/PATH/gooaye-podcast"
@@ -102,12 +102,12 @@ ls $GOOAYE_CORPUS/interview-transcript/ | wc -l    # 應為 8 (7+.DS_Store)
 
 ### ⚠️ 路徑差異處理
 
-**如果新機器路徑不同**（不是 `/Users/brandonpai/...`），必須修：
+**如果新機器路徑不同**（不是 `/Users/chikangpai/...`），必須修：
 
 | 檔案 | 要修改的 hardcoded 路徑 |
 |---|---|
-| `research-meta/phase-b-execution-plan.md` | 所有 `/Users/brandonpai/Desktop/...` |
-| `research-meta/batch-plan.md` | `/Users/brandonpai/Desktop/...` 出現處 |
+| `research-meta/phase-b-execution-plan.md` | 所有 `/Users/chikangpai/Desktop/...` |
+| `research-meta/batch-plan.md` | `/Users/chikangpai/Desktop/...` 出現處 |
 | `references/sources/gooaye-life-timeline.md` | 若有引用（檢查） |
 | `references/sources/gooaye-classic-episodes.md` | 若有引用（檢查） |
 
@@ -116,8 +116,8 @@ ls $GOOAYE_CORPUS/interview-transcript/ | wc -l    # 應為 8 (7+.DS_Store)
 ```bash
 # 在新機器
 cd ~/.claude/skills/gooaye-perspective
-grep -rl '/Users/brandonpai/Desktop/3-Projects-Gooaye' . | \
-  xargs sed -i '' 's|/Users/brandonpai/Desktop/3-Projects-Gooaye|/NEW/PATH|g'
+grep -rl '/Users/chikangpai/Desktop/3-Projects-Gooaye' . | \
+  xargs sed -i '' 's|/Users/chikangpai/Desktop/3-Projects-Gooaye|/NEW/PATH|g'
 ```
 
 （macOS: `sed -i ''`；Linux: `sed -i`）
@@ -147,7 +147,7 @@ done
 在新機器開 Claude Code：
 
 ```bash
-cd /Users/brandonpai/code/nuwa-skill    # 或你原本的工作目錄
+cd /Users/chikangpai/code/nuwa-skill    # 或你原本的工作目錄
 claude
 ```
 
@@ -186,7 +186,7 @@ ls research-meta/phase-*-done.md 2>/dev/null
 
 | 問題 | 解法 |
 |---|---|
-| 找不到 corpus | 確認 `/Users/brandonpai/Desktop/3-Projects-Gooaye/` 是否同步、或 remap 路徑 |
+| 找不到 corpus | 確認 `/Users/chikangpai/Desktop/3-Projects-Gooaye/` 是否同步、或 remap 路徑 |
 | Phase B subagent spawn 失敗 | 檢查 Claude Code permissions；或逐批手動跑 |
 | 某集抓不到 | 可能在缺檔範圍（EP643-653 已知 gap），標記略過 |
 | quality_check.py 報錯 | 見 nuwa 原始 repo `~/.claude/skills/nuwa-skill/` 的 scripts 使用說明 |
