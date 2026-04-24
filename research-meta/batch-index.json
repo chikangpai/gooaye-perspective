@@ -1,0 +1,5271 @@
+{
+  "total_episodes": 643,
+  "batches": [
+    {
+      "id": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "episode_range": [
+        1,
+        55
+      ],
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "id": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "episode_range": [
+        56,
+        105
+      ],
+      "episodes": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105
+      ]
+    },
+    {
+      "id": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "episode_range": [
+        106,
+        155
+      ],
+      "episodes": [
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155
+      ]
+    },
+    {
+      "id": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "episode_range": [
+        156,
+        205
+      ],
+      "episodes": [
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205
+      ]
+    },
+    {
+      "id": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "episode_range": [
+        206,
+        258
+      ],
+      "episodes": [
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258
+      ]
+    },
+    {
+      "id": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "episode_range": [
+        259,
+        310
+      ],
+      "episodes": [
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310
+      ]
+    },
+    {
+      "id": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "episode_range": [
+        311,
+        360
+      ],
+      "episodes": [
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360
+      ]
+    },
+    {
+      "id": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "episode_range": [
+        361,
+        414
+      ],
+      "episodes": [
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414
+      ]
+    },
+    {
+      "id": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "episode_range": [
+        415,
+        467
+      ],
+      "episodes": [
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467
+      ]
+    },
+    {
+      "id": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "episode_range": [
+        468,
+        518
+      ],
+      "episodes": [
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518
+      ]
+    },
+    {
+      "id": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "episode_range": [
+        519,
+        570
+      ],
+      "episodes": [
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570
+      ]
+    },
+    {
+      "id": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "episode_range": [
+        571,
+        654
+      ],
+      "episodes": [
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        654
+      ]
+    }
+  ],
+  "episode_to_batch": {
+    "1": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-02-27",
+      "title": "EP1 _( _・ω・)╰—╯✄",
+      "filename": "EP1_EP1 _( _・ω・)╰—╯✄.md"
+    },
+    "2": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-02-29",
+      "title": "EP2 _( _・ω・)╰✄-╯",
+      "filename": "EP2_EP2 _( _・ω・)╰✄-╯.md"
+    },
+    "3": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-02",
+      "title": "EP3 _( _・ω・)✄╰ひ╯",
+      "filename": "EP3_EP3 _( _・ω・)✄╰ひ╯.md"
+    },
+    "4": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-03",
+      "title": "EP4 _( ͡° ͜ʖ ͡°)",
+      "filename": "EP4_EP4 _( ͡° ͜ʖ ͡°).md"
+    },
+    "5": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-04",
+      "title": "∑( ◦д⊙)‼ 🔫",
+      "filename": "EP5_∑( ◦д⊙)‼ 🔫.md"
+    },
+    "6": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-06",
+      "title": "EP6 _(ಥ_ಥ)",
+      "filename": "EP6_EP6 _(ಥ_ಥ).md"
+    },
+    "7": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-09",
+      "title": "VIX與石油正2勸世集",
+      "filename": "EP7_VIX與石油正2勸世集.md"
+    },
+    "8": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-10",
+      "title": "推特救市沒用了 川普打過摔角 冠狀病毒 美國選舉",
+      "filename": "EP8_推特救市沒用了 川普打過摔角 冠狀病毒 美國選舉.md"
+    },
+    "9": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-11",
+      "title": "中油史上最大降價 航空油價避險 旅宿業愁雲慘霧",
+      "filename": "EP9_中油史上最大降價 航空油價避險 旅宿業愁雲慘霧.md"
+    },
+    "10": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-13",
+      "title": "熔斷 崩盤受傷的都來療傷 diss妖魔鬼怪亂象",
+      "filename": "EP10_熔斷 崩盤受傷的都來療傷 diss妖魔鬼怪亂象.md"
+    },
+    "11": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-14",
+      "title": "黑色一星期 本週散戶升級為學長 短評疫情和行情",
+      "filename": "EP11_黑色一星期 本週散戶升級為學長 短評疫情和行情.md"
+    },
+    "12": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-16",
+      "title": "QE和零利率都救不起來的市場",
+      "filename": "EP12_QE和零利率都救不起來的市場.md"
+    },
+    "13": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-17",
+      "title": "人類集體失智現象 美債流動性問題會是大問題",
+      "filename": "EP13_人類集體失智現象 美債流動性問題會是大問題.md"
+    },
+    "14": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-20",
+      "title": "國安基金護盤 聊趨勢怎麼看",
+      "filename": "EP14_國安基金護盤 聊趨勢怎麼看.md"
+    },
+    "15": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-21",
+      "title": "元大S&P石油正2 00672L之亂 《大賣空》",
+      "filename": "EP15_元大S&P石油正2 00672L之亂 《大賣空》.md"
+    },
+    "16": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-23",
+      "title": "鬼故事 失業潮來了 川普帶起的全球反華(亞）",
+      "filename": "EP16_鬼故事 失業潮來了 川普帶起的全球反華(亞）.md"
+    },
+    "17": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-24",
+      "title": "庫藏股的秘辛 遊戲橘子",
+      "filename": "EP17_庫藏股的秘辛 遊戲橘子.md"
+    },
+    "18": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-26",
+      "title": "川普收回中國病毒說法 疫情股市分析 Zoom買錯事件",
+      "filename": "EP18_川普收回中國病毒說法 疫情股市分析 Zoom買錯事件.md"
+    },
+    "19": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-29",
+      "title": "Surpriseㄇㄉㄈㄎ QE降息影響",
+      "filename": "EP19_Surpriseㄇㄉㄈㄎ QE降息影響.md"
+    },
+    "20": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-01",
+      "title": "財你個鳥富自由 討論騙人的話術",
+      "filename": "EP20_財你個鳥富自由 討論騙人的話術.md"
+    },
+    "21": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-03",
+      "title": "上節目心得 RSI_KD 中國浮動利率 套利",
+      "filename": "EP21_上節目心得 RSI_KD 中國浮動利率 套利.md"
+    },
+    "22": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-05",
+      "title": "不下標題試試看會怎樣",
+      "filename": "EP22_不下標題試試看會怎樣.md"
+    },
+    "23": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-07",
+      "title": "瑞幸會計責任 嘉年華郵輪 放福利",
+      "filename": "EP23_瑞幸會計責任 嘉年華郵輪 放福利.md"
+    },
+    "24": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-10",
+      "title": "譚德塞 桑德斯退選 文人相輕",
+      "filename": "EP24_譚德塞 桑德斯退選 文人相輕.md"
+    },
+    "25": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-13",
+      "title": "Errr 收割韭菜的聲音 華南和霸菱銀行",
+      "filename": "EP25_Errr 收割韭菜的聲音 華南和霸菱銀行.md"
+    },
+    "26": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-15",
+      "title": "逆風分類帽 克蘇魯",
+      "filename": "EP26_逆風分類帽 克蘇魯.md"
+    },
+    "27": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-17",
+      "title": "黃賭毒大發財 推薦書和入門教材",
+      "filename": "EP27_黃賭毒大發財 推薦書和入門教材.md"
+    },
+    "28": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-20",
+      "title": "面對中國數據真假如何解讀",
+      "filename": "EP28_面對中國數據真假如何解讀.md"
+    },
+    "29": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-22",
+      "title": "廉價的油 太空戰士  台灣工會",
+      "filename": "EP29_廉價的油 太空戰士  台灣工會.md"
+    },
+    "30": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-25",
+      "title": "Gogoro 白狼去中山演講",
+      "filename": "EP30_Gogoro 白狼去中山演講.md"
+    },
+    "31": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-04-29",
+      "title": "原油寶 時力基本薪資 中國 Steam",
+      "filename": "EP31_原油寶 時力基本薪資 中國 Steam.md"
+    },
+    "32": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-03",
+      "title": "Elon Musk的七傷拳 疫苗",
+      "filename": "EP32_Elon Musk的七傷拳 疫苗.md"
+    },
+    "33": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-06",
+      "title": "巴菲特股東會 黃國昌選獨董",
+      "filename": "EP33_巴菲特股東會 黃國昌選獨董.md"
+    },
+    "34": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-09",
+      "title": "原油寶後續 馬斯克訪問 Joeman橘子",
+      "filename": "EP34_原油寶後續 馬斯克訪問 Joeman橘子.md"
+    },
+    "35": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-13",
+      "title": "美國經濟數據 航空業 VIX",
+      "filename": "EP35_美國經濟數據 航空業 VIX.md"
+    },
+    "36": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-16",
+      "title": "台積電去美國設廠",
+      "filename": "EP36_台積電去美國設廠.md"
+    },
+    "37": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-20",
+      "title": "到底要不要訂閱一堆有的沒的",
+      "filename": "EP37_到底要不要訂閱一堆有的沒的.md"
+    },
+    "38": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-23",
+      "title": "香港國安法 豆漿我愛你沒事了",
+      "filename": "EP38_香港國安法 豆漿我愛你沒事了.md"
+    },
+    "39": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-27",
+      "title": "SpaceX 今晚射火箭 podcast起飛",
+      "filename": "EP39_SpaceX 今晚射火箭 podcast起飛.md"
+    },
+    "40": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-03-30",
+      "title": "沒人可以完全取代香港",
+      "filename": "EP40_沒人可以完全取代香港.md"
+    },
+    "41": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-03",
+      "title": "美國暴動 生技股",
+      "filename": "EP41_美國暴動 生技股.md"
+    },
+    "42": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-06",
+      "title": "別人恐懼 我更恐懼",
+      "filename": "EP42_別人恐懼 我更恐懼.md"
+    },
+    "43": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-10",
+      "title": "國瑜有退休金 排富排誰你要先講",
+      "filename": "EP43_國瑜有退休金 排富排誰你要先講.md"
+    },
+    "44": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-13",
+      "title": "中共同路人來了 市場該有的健康心態",
+      "filename": "EP44_中共同路人來了 市場該有的健康心態.md"
+    },
+    "45": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-17",
+      "title": "簡明市況 ETF泡沫紅茶",
+      "filename": "EP45_簡明市況 ETF泡沫紅茶.md"
+    },
+    "46": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-20",
+      "title": "風險特輯 羅賓漢散戶 廣明事件",
+      "filename": "EP46_風險特輯 羅賓漢散戶 廣明事件.md"
+    },
+    "47": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-24",
+      "title": "Spotify 聊執念和盲點",
+      "filename": "EP47_Spotify 聊執念和盲點.md"
+    },
+    "48": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-27",
+      "title": "菜雞悲歌",
+      "filename": "EP48_菜雞悲歌.md"
+    },
+    "49": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-01",
+      "title": "大同硬幹仔",
+      "filename": "EP49_大同硬幹仔.md"
+    },
+    "50": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-04",
+      "title": "香港和中國趨勢",
+      "filename": "EP50_香港和中國趨勢.md"
+    },
+    "51": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-08",
+      "title": "大同結果 更新市況 創作心得分享",
+      "filename": "EP51_大同結果 更新市況 創作心得分享.md"
+    },
+    "52": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-11",
+      "title": "六富仔 Elon Musk 火烤特斯拉空頭",
+      "filename": "EP52_六富仔 Elon Musk 火烤特斯拉空頭.md"
+    },
+    "53": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-15",
+      "title": "不是說掉了要撿怎麼逃了 Etoro",
+      "filename": "EP53_不是說掉了要撿怎麼逃了 Etoro.md"
+    },
+    "54": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-18",
+      "title": "Twitter被駭 永世天國一輝",
+      "filename": "EP54_Twitter被駭 永世天國一輝.md"
+    },
+    "55": {
+      "batch": 1,
+      "theme": "COVID crash + V-recovery (launch era)",
+      "date": "2020-06-22",
+      "title": "斜槓仔宏碁 詐騙剋星",
+      "filename": "EP55_斜槓仔宏碁 詐騙剋星.md"
+    },
+    "56": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-06-26",
+      "title": "遇到下坡的規劃",
+      "filename": "EP56_遇到下坡的規劃.md"
+    },
+    "57": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-06-29",
+      "title": "跟風仔都該聊台積電 柳樹理論",
+      "filename": "EP57 跟風仔都該聊台積電 柳樹理論.md"
+    },
+    "58": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-08-01",
+      "title": "Tiktok 獎落誰家",
+      "filename": "EP58_Tiktok 獎落誰家.md"
+    },
+    "59": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-08-05",
+      "title": "B 咖裡面的 A 咖",
+      "filename": "EP59_B 咖裡面的 A 咖.md"
+    },
+    "60": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-08-08",
+      "title": "WeChat TikTok 881",
+      "filename": "EP60_WeChat TikTok 881.md"
+    },
+    "61": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-08-12",
+      "title": "香港壹傳媒 康友街友",
+      "filename": "EP61_香港壹傳媒 康友街友.md"
+    },
+    "62": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-08-15",
+      "title": "爬山之後就是下山",
+      "filename": "EP62_爬山之後就是下山.md"
+    },
+    "63": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-08-19",
+      "title": "小米：我只是賣掃地機器人的",
+      "filename": "EP63_小米：我只是賣掃地機器人的.md"
+    },
+    "64": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-08-22",
+      "title": "Starlink 衛星網路 台美股近況更新",
+      "filename": "EP64_Starlink 衛星網路 台美股近況更新.md"
+    },
+    "65": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-08-26",
+      "title": "被教召了淦 跟單奧義",
+      "filename": "EP65_被教召了淦 跟單奧義.md"
+    },
+    "66": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-08-29",
+      "title": "好想安裝 Neuralink 腦機介面",
+      "filename": "EP66_好想安裝 Neuralink 腦機介面.md"
+    },
+    "67": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-09-02",
+      "title": "Zoom空軍死透 Nvidia新卡有夠香",
+      "filename": "EP67_Zoom空軍死透 Nvidia新卡有夠香.md"
+    },
+    "68": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-09-05",
+      "title": "一天的世界首富",
+      "filename": "EP68_一天的世界首富.md"
+    },
+    "69": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-09-09",
+      "title": "會冷的都進來",
+      "filename": "EP69_會冷的都進來.md"
+    },
+    "70": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-09-12",
+      "title": "Nikola打假 IPO之亂",
+      "filename": "EP70_Nikola打假 IPO之亂.md"
+    },
+    "71": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-09-16",
+      "title": "蘋果 Spotify ARM換手",
+      "filename": "EP71_蘋果 Spotify ARM換手.md"
+    },
+    "72": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-09-19",
+      "title": "酸掉的壽司和融化的雪",
+      "filename": "EP72_酸掉的壽司和融化的雪.md"
+    },
+    "73": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-09-23",
+      "title": "員工綁架公司 TikTok瓜分狀況",
+      "filename": "EP73_員工綁架公司 TikTok瓜分狀況.md"
+    },
+    "74": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-09-26",
+      "title": "DR股和高收益債代操",
+      "filename": "EP74_DR股和高收益債代操.md"
+    },
+    "75": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-09-30",
+      "title": "美國老人吵架 遊戲串流時代",
+      "filename": "EP75_美國老人吵架 遊戲串流時代.md"
+    },
+    "76": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-10-03",
+      "title": "十月驚奇 得疫的一天",
+      "filename": "EP76_十月驚奇 得疫的一天.md"
+    },
+    "77": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-10-07",
+      "title": "麥可貝式歸隊 台美股近況",
+      "filename": "EP77_麥可貝式歸隊 台美股近況.md"
+    },
+    "78": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-10-10",
+      "title": "原神薩爾達 斷掉的柳樹",
+      "filename": "EP78_原神薩爾達 斷掉的柳樹.md"
+    },
+    "79": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-10-14",
+      "title": "有25萬哪個憨仔會選3萬",
+      "filename": "EP79_有25萬哪個憨仔會選3萬.md"
+    },
+    "80": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-10-17",
+      "title": "菸之帥照流出",
+      "filename": "EP80_菸之帥照流出.md"
+    },
+    "81": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-10-21",
+      "title": "電動車鬼故事+1",
+      "filename": "EP81_電動車鬼故事+1.md"
+    },
+    "82": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-10-24",
+      "title": "零股交易 fracking",
+      "filename": "EP82_零股交易 fracking.md"
+    },
+    "83": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-10-28",
+      "title": "好肥的螞蟻",
+      "filename": "EP83_好肥的螞蟻.md"
+    },
+    "84": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-10-30",
+      "title": "性感會更有價值",
+      "filename": "EP84_性感會更有價值.md"
+    },
+    "85": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-11-04",
+      "title": "傑克馬忘記自己在中國",
+      "filename": "EP85_傑克馬忘記自己在中國.md"
+    },
+    "86": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-11-07",
+      "title": "聽眾叫我解釋反一",
+      "filename": "EP86_聽眾叫我解釋反一.md"
+    },
+    "87": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-11-11",
+      "title": "疫苗登場下一步",
+      "filename": "EP87_疫苗登場下一步.md"
+    },
+    "88": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-11-14",
+      "title": "中國瘋狗浪",
+      "filename": "EP88_中國瘋狗浪.md"
+    },
+    "89": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-11-18",
+      "title": "玉子燒不加蛋",
+      "filename": "EP89_玉子燒不加蛋.md"
+    },
+    "90": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-11-21",
+      "title": "專扁直銷",
+      "filename": "EP90_專扁直銷.md"
+    },
+    "91": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-11-25",
+      "title": "合約不要瞎簽",
+      "filename": "EP91_合約不要瞎簽.md"
+    },
+    "92": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-11-28",
+      "title": "真金不怕火煉",
+      "filename": "EP92_真金不怕火煉.md"
+    },
+    "93": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-12-02",
+      "title": "香港特首現金水位全球之冠",
+      "filename": "EP93_香港特首現金水位全球之冠.md"
+    },
+    "94": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-12-05",
+      "title": "帶把的卡珊德拉",
+      "filename": "EP94_帶把的卡珊德拉.md"
+    },
+    "95": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-12-09",
+      "title": "房產去槓桿 金融去股利",
+      "filename": "EP95_房產去槓桿 金融去股利.md"
+    },
+    "96": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-12-12",
+      "title": "飯店？",
+      "filename": "EP96_飯店？.md"
+    },
+    "97": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-12-16",
+      "title": "肉片下架",
+      "filename": "EP97_肉片下架.md"
+    },
+    "98": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-12-19",
+      "title": "金金蠢驢",
+      "filename": "EP98_金金蠢驢.md"
+    },
+    "99": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-12-23",
+      "title": "焦慮bad",
+      "filename": "EP99_焦慮bad.md"
+    },
+    "100": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-12-26",
+      "title": "Jack Ma又來了",
+      "filename": "EP100_Jack Ma又來了.md"
+    },
+    "101": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2020-12-30",
+      "title": "方舟漏水RRRRrr",
+      "filename": "EP101_方舟漏水RRRRrr.md"
+    },
+    "102": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2021-01-02",
+      "title": "小朋友才做選擇",
+      "filename": "EP102_小朋友才做選擇.md"
+    },
+    "103": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2021-01-06",
+      "title": "誰要洗碗",
+      "filename": "EP103_誰要洗碗.md"
+    },
+    "104": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2021-01-09",
+      "title": "ʕ•͡ᴥ•ʔʕ•͡ᴥ•ʔ",
+      "filename": "EP104_ʕ•͡ᴥ•ʔʕ•͡ᴥ•ʔ.md"
+    },
+    "105": {
+      "batch": 2,
+      "theme": "Tech rally + Jack Ma/Ant kill + vaccine",
+      "date": "2021-01-13",
+      "title": "ʕ•͡ᴥ•ʔ",
+      "filename": "EP105_ʕ•͡ᴥ•ʔ.md"
+    },
+    "106": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-01-16",
+      "title": "＜コ_彡",
+      "filename": "EP106_＜コ_彡.md"
+    },
+    "107": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-01-20",
+      "title": "puipui",
+      "filename": "EP107_puipui.md"
+    },
+    "108": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-01-23",
+      "title": "優摟！",
+      "filename": "EP108_優摟！.md"
+    },
+    "109": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-01-27",
+      "title": "==",
+      "filename": "EP109_==.md"
+    },
+    "110": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-01-30",
+      "title": "嘎你個songYY",
+      "filename": "EP110_嘎你個songYY.md"
+    },
+    "111": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-02-03",
+      "title": "Clubhouse發掘一堆小說家",
+      "filename": "EP111_Clubhouse發掘一堆小說家.md"
+    },
+    "112": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-02-06",
+      "title": "Cubanㄉ領口策略",
+      "filename": "EP112_Cubanㄉ領口策略.md"
+    },
+    "113": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-02-10",
+      "title": "信仰的平方",
+      "filename": "EP113_信仰的平方.md"
+    },
+    "114": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-02-13",
+      "title": "🧧🧧🧧",
+      "filename": "EP114_🧧🧧🧧.md"
+    },
+    "115": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-02-17",
+      "title": "召喚仔",
+      "filename": "EP115_召喚仔.md"
+    },
+    "116": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-02-20",
+      "title": "13F",
+      "filename": "EP116_13F.md"
+    },
+    "117": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-02-24",
+      "title": "腳麻ㄉ來(秋口幹你娘來源)",
+      "filename": "EP117_腳麻ㄉ來(秋口幹你娘來源).md"
+    },
+    "118": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-02-27",
+      "title": "情緒炸裂",
+      "filename": "EP118_情緒炸裂.md"
+    },
+    "119": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-03-03",
+      "title": "探索發財頻道",
+      "filename": "EP119_探索發財頻道.md"
+    },
+    "120": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-03-06",
+      "title": "this too shall pass",
+      "filename": "EP120_this too shall pass.md"
+    },
+    "121": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-03-10",
+      "title": "(=ﾟωﾟ)っ∠※ Kaboom!",
+      "filename": "EP121_(=ﾟωﾟ)っ∠※ Kaboom!.md"
+    },
+    "122": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-03-13",
+      "title": "加速入土ㄉ小訣竅",
+      "filename": "EP122_加速入土ㄉ小訣竅.md"
+    },
+    "123": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-03-17",
+      "title": "蘋果怎麼吃才營養",
+      "filename": "EP123_蘋果怎麼吃才營養.md"
+    },
+    "124": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-03-20",
+      "title": "熱鬧香港",
+      "filename": "EP124_熱鬧香港.md"
+    },
+    "125": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-03-24",
+      "title": "全球最大白牌車聯盟上線啦",
+      "filename": "EP125_全球最大白牌車聯盟上線啦.md"
+    },
+    "126": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-03-27",
+      "title": "棉花",
+      "filename": "EP126_棉花.md"
+    },
+    "127": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-03-31",
+      "title": "EP127 _ 地表最大當日虧損",
+      "filename": "EP127_EP127 _ 地表最大當日虧損.md"
+    },
+    "128": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-04-03",
+      "title": "大撒幣",
+      "filename": "EP128_大撒幣.md"
+    },
+    "129": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-04-07",
+      "title": "誰都會賠錢拉",
+      "filename": "EP129_誰都會賠錢拉.md"
+    },
+    "130": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-04-10",
+      "title": "技術動能仔",
+      "filename": "EP130_技術動能仔.md"
+    },
+    "131": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-04-14",
+      "title": "聊個房",
+      "filename": "EP131_聊個房.md"
+    },
+    "132": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-04-17",
+      "title": "Mary and Larry",
+      "filename": "EP132_Mary and Larry.md"
+    },
+    "133": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-04-21",
+      "title": "網飛往地上飛",
+      "filename": "EP133_網飛往地上飛.md"
+    },
+    "134": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-04-24",
+      "title": "賺便當心慌慌",
+      "filename": "EP134_賺便當心慌慌.md"
+    },
+    "135": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-04-28",
+      "title": "還有什麼沒在漲",
+      "filename": "EP135_還有什麼沒在漲.md"
+    },
+    "136": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-05-01",
+      "title": "看圖說故事",
+      "filename": "EP136_看圖說故事.md"
+    },
+    "137": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-05-05",
+      "title": "187年ㄉ智慧",
+      "filename": "EP137_187年ㄉ智慧.md"
+    },
+    "138": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-05-08",
+      "title": "哩五碳及謀",
+      "filename": "EP138_哩五碳及謀.md"
+    },
+    "139": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-05-12",
+      "title": "未接來電：塔位仲介",
+      "filename": "EP139_未接來電：塔位仲介.md"
+    },
+    "140": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-05-15",
+      "title": "不要賣場群聚辣乾",
+      "filename": "EP140_不要賣場群聚辣乾.md"
+    },
+    "141": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-05-19",
+      "title": "甩到你叫媽",
+      "filename": "EP141_甩到你叫媽.md"
+    },
+    "142": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-05-22",
+      "title": "玩遊戲ㄉ不會變壞",
+      "filename": "EP142_玩遊戲ㄉ不會變壞.md"
+    },
+    "143": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-05-26",
+      "title": "オラオラ",
+      "filename": "EP143_オラオラ.md"
+    },
+    "144": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-05-29",
+      "title": "地藏王",
+      "filename": "EP144_地藏王.md"
+    },
+    "145": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-02",
+      "title": "孩子王...？！",
+      "filename": "EP145_孩子王...？！.md"
+    },
+    "146": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-05",
+      "title": "NVDA700",
+      "filename": "EP146_NVDA700.md"
+    },
+    "147": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-09",
+      "title": "好用的三段論",
+      "filename": "EP147_好用的三段論.md"
+    },
+    "148": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-12",
+      "title": "被祖ㄌ",
+      "filename": "EP148_被祖ㄌ.md"
+    },
+    "149": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-16",
+      "title": "阿姨我不想努力了",
+      "filename": "EP149_阿姨我不想努力了.md"
+    },
+    "150": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-19",
+      "title": "大哥講話了",
+      "filename": "EP150_大哥講話了.md"
+    },
+    "151": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-23",
+      "title": "報告點解？",
+      "filename": "EP151_報告點解？.md"
+    },
+    "152": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-26",
+      "title": "歪打正著",
+      "filename": "EP152_歪打正著.md"
+    },
+    "153": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-30",
+      "title": "EP153___三根大紅K散戶不請自來",
+      "filename": "EP153_transcript_fixed-2_EP153_EP153___三根大紅K散戶不請自來.md"
+    },
+    "154": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-03",
+      "title": "兩點要下山",
+      "filename": "EP154_兩點要下山.md"
+    },
+    "155": {
+      "batch": 3,
+      "theme": "GME/SPAC mania + Cathie peak",
+      "date": "2021-06-07",
+      "title": "我怕練太壯",
+      "filename": "EP155_我怕練太壯.md"
+    },
+    "156": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-06-10",
+      "title": "賭場上線啦",
+      "filename": "EP156_賭場上線啦.md"
+    },
+    "157": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-06-14",
+      "title": "姑桃火箭",
+      "filename": "EP157_姑桃火箭.md"
+    },
+    "158": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-06-17",
+      "title": "雜訊太多訊號弱就連風吹都要干擾",
+      "filename": "EP158_雜訊太多訊號弱就連風吹都要干擾.md"
+    },
+    "159": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-06-21",
+      "title": "(´･_･`)",
+      "filename": "EP159_(´･_･`).md"
+    },
+    "160": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-06-24",
+      "title": "遇水則發",
+      "filename": "EP160_遇水則發.md"
+    },
+    "161": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-06-28",
+      "title": "(☉∀☉)",
+      "filename": "EP161_(☉∀☉).md"
+    },
+    "162": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": null,
+      "title": "( ＾o)ρ┳┻┳°σ(o^ )",
+      "filename": "EP162_( ＾o)ρ┳┻┳°σ(o^ ).md"
+    },
+    "163": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-08-04",
+      "title": "28天打工倒數",
+      "filename": "EP163_28天打工倒數.md"
+    },
+    "164": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-08-07",
+      "title": "股海方唐鏡",
+      "filename": "EP164_股海方唐鏡.md"
+    },
+    "165": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-08-11",
+      "title": "秤斤論兩",
+      "filename": "EP165_秤斤論兩.md"
+    },
+    "166": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-08-14",
+      "title": "滾石不生苔滾石滾下山",
+      "filename": "EP166_滾石不生苔滾石滾下山.md"
+    },
+    "167": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-08-18",
+      "title": "被嚕牆上三天挖不下來",
+      "filename": "EP167_被嚕牆上三天挖不下來.md"
+    },
+    "168": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-08-21",
+      "title": "168ㄟ台股週一彈啦",
+      "filename": "EP168_168ㄟ台股週一彈啦.md"
+    },
+    "169": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-08-25",
+      "title": "損害控制",
+      "filename": "EP169_損害控制.md"
+    },
+    "170": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-08-28",
+      "title": "菸要起價ㄟ餒",
+      "filename": "EP170_菸要起價ㄟ餒.md"
+    },
+    "171": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-09-01",
+      "title": "☆㊣↙GG614↗㊣☆",
+      "filename": "EP171_☆㊣↙GG614↗㊣☆.md"
+    },
+    "172": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-09-04",
+      "title": "借停一下",
+      "filename": "EP172_借停一下.md"
+    },
+    "173": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-09-08",
+      "title": "咕嚕咕嚕",
+      "filename": "EP173_咕嚕咕嚕.md"
+    },
+    "174": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-09-11",
+      "title": "路上的皮卡丘",
+      "filename": "EP174_路上的皮卡丘.md"
+    },
+    "175": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-09-15",
+      "title": "天峰回來到",
+      "filename": "EP175_天峰回來到.md"
+    },
+    "176": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-09-18",
+      "title": "塞車點我",
+      "filename": "EP176_塞車點我.md"
+    },
+    "177": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-09-22",
+      "title": "半夜打牌",
+      "filename": "EP177_半夜打牌.md"
+    },
+    "178": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-09-25",
+      "title": "別查瑪利歐兄弟真人版",
+      "filename": "EP178_別查瑪利歐兄弟真人版.md"
+    },
+    "179": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-09-29",
+      "title": "停電",
+      "filename": "EP179 _ 停電.md"
+    },
+    "180": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-10-02",
+      "title": "走火入魔(談勿過度迷信基本籌碼或技術面=>工具箱)",
+      "filename": "EP180_走火入魔(談勿過度迷信基本籌碼或技術面=>工具箱).md"
+    },
+    "181": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-10-06",
+      "title": "第五屆沉默循環",
+      "filename": "EP181_第五屆沉默循環.md"
+    },
+    "182": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-10-09",
+      "title": "別人都跌就你最特別",
+      "filename": "EP182_別人都跌就你最特別.md"
+    },
+    "183": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-10-13",
+      "title": "海邊車車",
+      "filename": "EP183_海邊車車.md"
+    },
+    "184": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-10-16",
+      "title": "肥尾",
+      "filename": "EP184_肥尾.md"
+    },
+    "185": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-10-20",
+      "title": "網飛往天上飛",
+      "filename": "EP185_網飛往天上飛.md"
+    },
+    "186": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-10-23",
+      "title": "公主道車神回來了",
+      "filename": "EP186_公主道車神回來了.md"
+    },
+    "187": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-10-27",
+      "title": "一個月前安安靜靜",
+      "filename": "EP187_一個月前安安靜靜.md"
+    },
+    "188": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-10-30",
+      "title": "相信蜥蜴",
+      "filename": "EP188_相信蜥蜴.md"
+    },
+    "189": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-11-03",
+      "title": "吃筍是為了可以一直吃筍",
+      "filename": "EP189_吃筍是為了可以一直吃筍.md"
+    },
+    "190": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-11-06",
+      "title": "期貨",
+      "filename": "EP190_期貨.md"
+    },
+    "191": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-11-10",
+      "title": "想像力就是超能力",
+      "filename": "EP191_想像力就是超能力.md"
+    },
+    "192": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-11-13",
+      "title": "專業投資人",
+      "filename": "EP192_專業投資人.md"
+    },
+    "193": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-11-17",
+      "title": "=≠！",
+      "filename": "EP193_=≠！.md"
+    },
+    "194": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-11-20",
+      "title": "2022 大浪",
+      "filename": "EP194_2022 大浪.md"
+    },
+    "195": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-11-24",
+      "title": "台非友好",
+      "filename": "EP195_台非友好.md"
+    },
+    "196": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-11-27",
+      "title": "黑色星期五",
+      "filename": "EP196_黑色星期五.md"
+    },
+    "197": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-12-01",
+      "title": "樂透仔",
+      "filename": "EP197_樂透仔.md"
+    },
+    "198": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-12-04",
+      "title": "破壞式創新低",
+      "filename": "EP198_破壞式創新低.md"
+    },
+    "199": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-12-08",
+      "title": "挖挖",
+      "filename": "EP199_挖挖.md"
+    },
+    "200": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-12-11",
+      "title": "提款仔",
+      "filename": "EP200_提款仔.md"
+    },
+    "201": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-12-15",
+      "title": "被弄出翔",
+      "filename": "EP201_被弄出翔.md"
+    },
+    "202": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-12-18",
+      "title": "渾水摸貝",
+      "filename": "EP202_渾水摸貝.md"
+    },
+    "203": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-12-22",
+      "title": "冬至ㄌ",
+      "filename": "EP203_冬至ㄌ.md"
+    },
+    "204": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-12-25",
+      "title": "聖誕快樂",
+      "filename": "EP204_聖誕快樂.md"
+    },
+    "205": {
+      "batch": 4,
+      "theme": "Inflation fears + Evergrande + Omicron",
+      "date": "2021-12-29",
+      "title": "上集欠ㄉ",
+      "filename": "EP205_上集欠ㄉ.md"
+    },
+    "206": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-01-01",
+      "title": "新年快樂",
+      "filename": "EP206_新年快樂.md"
+    },
+    "207": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-01-05",
+      "title": "(^_^)_",
+      "filename": "EP207__(^_^)_.md"
+    },
+    "208": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-01-08",
+      "title": "出國即出包",
+      "filename": "EP208_出國即出包.md"
+    },
+    "209": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-01-12",
+      "title": "⛄",
+      "filename": "EP209_⛄.md"
+    },
+    "210": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-01-15",
+      "title": "🐔🐔🕘🇹🇼",
+      "filename": "EP210_🐔🐔🕘🇹🇼.md"
+    },
+    "211": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-01-19",
+      "title": "🤏🥚",
+      "filename": "EP211_🤏🥚.md"
+    },
+    "212": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-01-22",
+      "title": "🤿",
+      "filename": "EP212_🤿.md"
+    },
+    "213": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-01-26",
+      "title": "🐯",
+      "filename": "EP213_🐯.md"
+    },
+    "214": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-01-29",
+      "title": "🏎",
+      "filename": "EP214_🏎.md"
+    },
+    "215": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-02-01",
+      "title": "💡",
+      "filename": "EP215_💡.md"
+    },
+    "216": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-02-05",
+      "title": "( _・ω・)✄╰ひ╯",
+      "filename": "EP216_( _・ω・)✄╰ひ╯.md"
+    },
+    "217": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-02-09",
+      "title": "🏖",
+      "filename": "EP217_🏖.md"
+    },
+    "218": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-02-12",
+      "title": "💸",
+      "filename": "EP218_💸.md"
+    },
+    "219": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-02-16",
+      "title": "宇宙大勃盤",
+      "filename": "EP219_宇宙大勃盤.md"
+    },
+    "220": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-02-19",
+      "title": "💃",
+      "filename": "EP220_💃.md"
+    },
+    "221": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-02-23",
+      "title": "🗿",
+      "filename": "EP221_🗿.md"
+    },
+    "222": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-02-26",
+      "title": "📯",
+      "filename": "EP222_📯.md"
+    },
+    "223": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-02",
+      "title": "🍄",
+      "filename": "EP223_🍄.md"
+    },
+    "224": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-05",
+      "title": "🐻",
+      "filename": "EP224_🐻.md"
+    },
+    "225": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-09",
+      "title": "🚀",
+      "filename": "EP225_🚀.md"
+    },
+    "226": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-12",
+      "title": "🍟",
+      "filename": "EP226_🍟.md"
+    },
+    "227": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-16",
+      "title": "🎉",
+      "filename": "EP227_🎉.md"
+    },
+    "228": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-19",
+      "title": "🧛",
+      "filename": "EP228_🧛.md"
+    },
+    "229": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-23",
+      "title": "🙏",
+      "filename": "EP229_🙏.md"
+    },
+    "230": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-26",
+      "title": "🀅",
+      "filename": "EP230_🀅.md"
+    },
+    "231": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-30",
+      "title": "👽",
+      "filename": "EP231_👽.md"
+    },
+    "232": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-04-02",
+      "title": "🧙",
+      "filename": "EP232_🧙.md"
+    },
+    "233": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-04-06",
+      "title": "🛵",
+      "filename": "EP233_🛵.md"
+    },
+    "234": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-04-09",
+      "title": "🕴️",
+      "filename": "EP234_🕴️.md"
+    },
+    "235": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-04-13",
+      "title": "🦔",
+      "filename": "EP235_🦔.md"
+    },
+    "236": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-04-16",
+      "title": "🐓",
+      "filename": "EP236_🐓.md"
+    },
+    "237": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-04-20",
+      "title": "🐝",
+      "filename": "EP237_🐝.md"
+    },
+    "238": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-04-23",
+      "title": "🔋",
+      "filename": "EP238_🔋.md"
+    },
+    "239": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-04-27",
+      "title": "🦘",
+      "filename": "EP239_🦘.md"
+    },
+    "240": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-04-30",
+      "title": "🦡",
+      "filename": "EP240_🦡.md"
+    },
+    "241": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-04",
+      "title": "👸",
+      "filename": "EP241_👸.md"
+    },
+    "242": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-07",
+      "title": "👩‍👧‍👦",
+      "filename": "EP242_👩‍👧‍👦.md"
+    },
+    "243": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-11",
+      "title": "莫忘祖宗言 賣光祖宗田",
+      "filename": "EP243_莫忘祖宗言 賣光祖宗田.md"
+    },
+    "244": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-14",
+      "title": "🦐",
+      "filename": "EP244_🦐.md"
+    },
+    "245": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-18",
+      "title": "🦉",
+      "filename": "EP245_🦉.md"
+    },
+    "246": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-21",
+      "title": "🚯",
+      "filename": "EP246_🚯.md"
+    },
+    "247": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-25",
+      "title": "🐕",
+      "filename": "EP247_🐕.md"
+    },
+    "248": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-05-28",
+      "title": "⛲",
+      "filename": "EP248_⛲.md"
+    },
+    "249": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-01",
+      "title": "🦖",
+      "filename": "EP249_🦖.md"
+    },
+    "250": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-04",
+      "title": "從高三聽到三高",
+      "filename": "EP250_從高三聽到三高.md"
+    },
+    "251": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-08",
+      "title": "🍏",
+      "filename": "EP251_🍏.md"
+    },
+    "252": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-11",
+      "title": "🏕️",
+      "filename": "EP252_🏕️.md"
+    },
+    "253": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-15",
+      "title": "©️",
+      "filename": "EP253_©️.md"
+    },
+    "254": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-18",
+      "title": "🐌",
+      "filename": "EP254_🐌.md"
+    },
+    "255": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-22",
+      "title": "😇",
+      "filename": "EP255_😇.md"
+    },
+    "256": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-25",
+      "title": "🌠",
+      "filename": "EP256_🌠.md"
+    },
+    "257": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-29",
+      "title": "👨‍🌾",
+      "filename": "EP257_ 👨‍🌾.md"
+    },
+    "258": {
+      "batch": 5,
+      "theme": "Ukraine war + Fed hikes + Luna collapse",
+      "date": "2022-07-02",
+      "title": "ㄨㄨㄉ",
+      "filename": "EP258_ㄨㄨㄉ.md"
+    },
+    "259": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-07-06",
+      "title": "🦕",
+      "filename": "EP259_🦕.md"
+    },
+    "260": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-07-09",
+      "title": "🪐_談到槓桿型 ETF",
+      "filename": "EP260_🪐_談到槓桿型 ETF.md"
+    },
+    "261": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-07-13",
+      "title": "🥞",
+      "filename": "EP261_🥞.md"
+    },
+    "262": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-07-16",
+      "title": "🌳",
+      "filename": "EP262_🌳.md"
+    },
+    "263": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-07-20",
+      "title": "🦆",
+      "filename": "EP263_🦆.md"
+    },
+    "264": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-07-23",
+      "title": "🐎",
+      "filename": "EP264_🐎.md"
+    },
+    "265": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-07-27",
+      "title": "🐂",
+      "filename": "EP265_🐂.md"
+    },
+    "266": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-07-30",
+      "title": "🦥",
+      "filename": "EP266_🦥.md"
+    },
+    "267": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-08-03",
+      "title": "🐼",
+      "filename": "EP267_🐼.md"
+    },
+    "268": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-08-06",
+      "title": "🦎",
+      "filename": "EP268_🦎.md"
+    },
+    "269": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-08-10",
+      "title": "🦦",
+      "filename": "EP269_🦦.md"
+    },
+    "270": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-08-13",
+      "title": "🦏",
+      "filename": "EP270_🦏.md"
+    },
+    "271": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-08-17",
+      "title": "🦘",
+      "filename": "EP271_🦘.md"
+    },
+    "272": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-08-20",
+      "title": "👻",
+      "filename": "EP272_👻.md"
+    },
+    "273": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-08-24",
+      "title": "👾",
+      "filename": "EP273_👾.md"
+    },
+    "274": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-08-27",
+      "title": "♨",
+      "filename": "EP274_♨.md"
+    },
+    "275": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-08-31",
+      "title": "🥑談期貨",
+      "filename": "EP275_🥑談期貨.md"
+    },
+    "276": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-09-03",
+      "title": "🦡",
+      "filename": "EP276_🦡.md"
+    },
+    "277": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-09-07",
+      "title": "🦇",
+      "filename": "EP277_🦇.md"
+    },
+    "278": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-09-10",
+      "title": "🛰️",
+      "filename": "EP278_🛰️.md"
+    },
+    "279": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-09-14",
+      "title": "🌞",
+      "filename": "EP279_🌞.md"
+    },
+    "280": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-09-17",
+      "title": "🌮",
+      "filename": "EP280_🌮.md"
+    },
+    "281": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-09-21",
+      "title": "🧞‍♂️",
+      "filename": "EP281_🧞‍♂️.md"
+    },
+    "282": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-09-24",
+      "title": "⚾",
+      "filename": "EP282_⚾.md"
+    },
+    "283": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-09-28",
+      "title": "🦛",
+      "filename": "EP283_🦛.md"
+    },
+    "284": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-10-01",
+      "title": "🐛",
+      "filename": "EP284_🐛.md"
+    },
+    "285": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-10-05",
+      "title": "🦿",
+      "filename": "EP285_🦿.md"
+    },
+    "286": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-10-08",
+      "title": "🎂",
+      "filename": "EP286_🎂.md"
+    },
+    "287": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-10-12",
+      "title": "🛸",
+      "filename": "EP287_🛸.md"
+    },
+    "288": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-10-15",
+      "title": "🐔",
+      "filename": "EP288_🐔.md"
+    },
+    "289": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-10-19",
+      "title": "🤡",
+      "filename": "EP289_🤡.md"
+    },
+    "290": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-10-22",
+      "title": "🕸",
+      "filename": "EP290_🕸.md"
+    },
+    "291": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-10-26",
+      "title": "🧸",
+      "filename": "EP291_🧸.md"
+    },
+    "292": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-10-29",
+      "title": "🦴",
+      "filename": "EP292_🦴.md"
+    },
+    "293": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-11-02",
+      "title": "Josephine睡飽點好嗎==",
+      "filename": "EP293_Josephine睡飽點好嗎==.md"
+    },
+    "294": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-11-05",
+      "title": "🍹",
+      "filename": "EP294_🍹.md"
+    },
+    "295": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-11-09",
+      "title": "₿",
+      "filename": "EP295_₿.md"
+    },
+    "296": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-11-12",
+      "title": "🐺",
+      "filename": "EP296_🐺.md"
+    },
+    "297": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-11-16",
+      "title": "🐸",
+      "filename": "EP297_🐸.md"
+    },
+    "298": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-11-19",
+      "title": "🐳",
+      "filename": "EP298_🐳.md"
+    },
+    "299": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-11-23",
+      "title": "🥢",
+      "filename": "EP299_🥢.md"
+    },
+    "300": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-11-26",
+      "title": "♻",
+      "filename": "EP300_♻.md"
+    },
+    "301": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-11-30",
+      "title": "👨‍💻",
+      "filename": "EP301_👨‍💻.md"
+    },
+    "302": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-12-03",
+      "title": "🕯️",
+      "filename": "EP302_🕯️.md"
+    },
+    "303": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-12-07",
+      "title": "🐕🌈💑",
+      "filename": "EP303_🐕🌈💑.md"
+    },
+    "304": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-12-10",
+      "title": "🤖",
+      "filename": "EP304_🤖.md"
+    },
+    "305": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-12-14",
+      "title": "🚲",
+      "filename": "EP305_🚲.md"
+    },
+    "306": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-12-17",
+      "title": "🚗",
+      "filename": "EP306_🚗.md"
+    },
+    "307": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-12-21",
+      "title": "🌨",
+      "filename": "EP307_🌨.md"
+    },
+    "308": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-12-24",
+      "title": "🎄",
+      "filename": "EP308_🎄.md"
+    },
+    "309": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-12-28",
+      "title": "🛀",
+      "filename": "EP309_🛀.md"
+    },
+    "310": {
+      "batch": 6,
+      "theme": "Rate peak fear + FTX + China reopen",
+      "date": "2022-12-31",
+      "title": "又老一歲了ㄟ==",
+      "filename": "EP310_又老一歲了ㄟ==.md"
+    },
+    "311": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-01-04",
+      "title": "🎇",
+      "filename": "EP311_🎇.md"
+    },
+    "312": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-01-07",
+      "title": "🎠",
+      "filename": "EP312_🎠.md"
+    },
+    "313": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-01-11",
+      "title": "🐧",
+      "filename": "EP313_🐧.md"
+    },
+    "314": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-01-14",
+      "title": "🍡",
+      "filename": "EP314_🍡.md"
+    },
+    "315": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-01-18",
+      "title": "🎣",
+      "filename": "EP315_🎣.md"
+    },
+    "316": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-01-21",
+      "title": "🧧",
+      "filename": "EP316_🧧.md"
+    },
+    "317": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-01-25",
+      "title": "🚻",
+      "filename": "EP317_🚻.md"
+    },
+    "318": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-01-28",
+      "title": "😊",
+      "filename": "EP318_😊.md"
+    },
+    "319": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-02-01",
+      "title": "👑",
+      "filename": "EP319_👑.md"
+    },
+    "320": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-02-04",
+      "title": "🆘",
+      "filename": "EP320_🆘.md"
+    },
+    "321": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-02-08",
+      "title": "🌻",
+      "filename": "EP321_🌻.md"
+    },
+    "322": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-02-11",
+      "title": "👾",
+      "filename": "EP322_👾.md"
+    },
+    "323": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-02-15",
+      "title": "🪂",
+      "filename": "EP323_🪂.md"
+    },
+    "324": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-02-18",
+      "title": "❌👨‍👨‍👧🔥⛰❌",
+      "filename": "EP324_❌👨‍👨‍👧🔥⛰❌.md"
+    },
+    "325": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-02-22",
+      "title": "🔌",
+      "filename": "EP325_🔌.md"
+    },
+    "326": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-02-25",
+      "title": "🩴",
+      "filename": "EP326_🩴.md"
+    },
+    "327": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-01",
+      "title": "🧷快速致富必有風險",
+      "filename": "EP327_🧷快速致富必有風險.md"
+    },
+    "328": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-04",
+      "title": "🌪",
+      "filename": "EP328_🌪.md"
+    },
+    "329": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-08",
+      "title": "🚜",
+      "filename": "EP329_🚜.md"
+    },
+    "330": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-11",
+      "title": "👶",
+      "filename": "EP330_👶.md"
+    },
+    "331": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-15",
+      "title": "🧊",
+      "filename": "EP331_🧊.md"
+    },
+    "332": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-18",
+      "title": "🩰",
+      "filename": "EP332_🩰.md"
+    },
+    "333": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-22",
+      "title": "⚙",
+      "filename": "EP333_⚙.md"
+    },
+    "334": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-25",
+      "title": "🎲",
+      "filename": "EP334_🎲.md"
+    },
+    "335": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-29",
+      "title": "EP335 _ 🏛️",
+      "filename": "EP335_EP335 _ 🏛️.md"
+    },
+    "336": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-04-01",
+      "title": "😍",
+      "filename": "EP336_😍.md"
+    },
+    "337": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-04-05",
+      "title": "🌴",
+      "filename": "EP337_🌴.md"
+    },
+    "338": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-04-08",
+      "title": "🪲",
+      "filename": "EP338_🪲.md"
+    },
+    "339": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-04-12",
+      "title": "🤌衣服剪爛叫我去當乞丐",
+      "filename": "EP339_🤌衣服剪爛叫我去當乞丐.md"
+    },
+    "340": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-04-15",
+      "title": "🧋",
+      "filename": "EP340_🧋.md"
+    },
+    "341": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-04-19",
+      "title": "🤱",
+      "filename": "EP341_🤱.md"
+    },
+    "342": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-04-22",
+      "title": "😞",
+      "filename": "EP342_😞.md"
+    },
+    "343": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-04-26",
+      "title": "🦒",
+      "filename": "EP343_🦒.md"
+    },
+    "344": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-04-29",
+      "title": "🧶",
+      "filename": "EP344_🧶.md"
+    },
+    "345": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-03",
+      "title": "🪴",
+      "filename": "EP345_🪴.md"
+    },
+    "346": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-06",
+      "title": "🐻‍❄️",
+      "filename": "EP346_🐻‍❄️.md"
+    },
+    "347": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-10",
+      "title": "🏔️",
+      "filename": "EP347_🏔️.md"
+    },
+    "348": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-13",
+      "title": "🪄",
+      "filename": "EP348__ 🪄.md"
+    },
+    "349": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-17",
+      "title": "🪐",
+      "filename": "EP349__ 🪐.md"
+    },
+    "350": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-20",
+      "title": "🫠",
+      "filename": "EP350__ 🫠.md"
+    },
+    "351": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-23",
+      "title": "🎏",
+      "filename": "EP351__ 🎏.md"
+    },
+    "352": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-27",
+      "title": "(•̀ᴗ•́ )و",
+      "filename": "EP352__ (•̀ᴗ•́ )و.md"
+    },
+    "353": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-05-31",
+      "title": "🎡",
+      "filename": "EP353 _ 🎡.rss.md"
+    },
+    "354": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-07-03",
+      "title": "🦪",
+      "filename": "EP354__ 🦪.md"
+    },
+    "355": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-07-07",
+      "title": "🤓",
+      "filename": "EP355__ 🤓.md"
+    },
+    "356": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-07-10",
+      "title": "🕳️",
+      "filename": "EP356__ 🕳️.md"
+    },
+    "357": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-07-14",
+      "title": "💎",
+      "filename": "EP357__ 💎.md"
+    },
+    "358": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-07-17",
+      "title": "🆒",
+      "filename": "EP358__ 🆒.md"
+    },
+    "359": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-07-21",
+      "title": "🤗",
+      "filename": "EP359__ 🤗.md"
+    },
+    "360": {
+      "batch": 7,
+      "theme": "SVB crisis + AI rally begins (NVDA)",
+      "date": "2023-07-24",
+      "title": "🅰️",
+      "filename": "EP360__ 🅰️.md"
+    },
+    "361": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-28",
+      "title": "🍭",
+      "filename": "EP361__ 🍭.md"
+    },
+    "362": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-01",
+      "title": "❤️‍🩹",
+      "filename": "EP362__ ❤️‍🩹.md"
+    },
+    "363": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-05",
+      "title": "😑",
+      "filename": "EP363__ 😑.md"
+    },
+    "364": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-08",
+      "title": "＠",
+      "filename": "EP364__ ＠.md"
+    },
+    "365": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-12",
+      "title": "👀",
+      "filename": "EP365__ 👀.md"
+    },
+    "366": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-15",
+      "title": "🧷",
+      "filename": "EP366__ 🧷.md"
+    },
+    "367": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-19",
+      "title": "😺",
+      "filename": "EP367__ 😺.md"
+    },
+    "368": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-22",
+      "title": "🦈",
+      "filename": "EP368__ 🦈.md"
+    },
+    "369": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-26",
+      "title": "🐴",
+      "filename": "EP369__ 🐴.md"
+    },
+    "370": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-07-29",
+      "title": "🎢",
+      "filename": "EP370__ 🎢.md"
+    },
+    "371": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-08-02",
+      "title": "🚑",
+      "filename": "EP371__ 🚑.md"
+    },
+    "372": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-08-05",
+      "title": "💣",
+      "filename": "EP372__ 💣.md"
+    },
+    "373": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-08-09",
+      "title": "🦸",
+      "filename": "EP373__ 🦸.md"
+    },
+    "374": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-08-12",
+      "title": "💐",
+      "filename": "EP374__ 💐.md"
+    },
+    "375": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-08-16",
+      "title": "🦘",
+      "filename": "EP375__ 🦘.md"
+    },
+    "376": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-08-19",
+      "title": "🎺",
+      "filename": "EP376__ 🎺.md"
+    },
+    "377": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-08-23",
+      "title": "🥏",
+      "filename": "EP377__ 🥏.md"
+    },
+    "378": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-08-26",
+      "title": "🌭",
+      "filename": "EP378__ 🌭.md"
+    },
+    "379": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-08-30",
+      "title": "💫",
+      "filename": "EP379 _ 💫.rss.md"
+    },
+    "380": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-09-02",
+      "title": "🍂",
+      "filename": "EP380__ 🍂.md"
+    },
+    "381": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-09-06",
+      "title": "🐙",
+      "filename": "EP381__ 🐙.md"
+    },
+    "382": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-09-09",
+      "title": "🫖",
+      "filename": "EP382__ 🫖.md"
+    },
+    "383": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-09-13",
+      "title": "🫐",
+      "filename": "EP383__ 🫐.md"
+    },
+    "384": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-09-16",
+      "title": "🧈",
+      "filename": "EP384__ 🧈.md"
+    },
+    "385": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-09-20",
+      "title": "🍪",
+      "filename": "EP385__ 🍪.md"
+    },
+    "386": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-09-23",
+      "title": "📎",
+      "filename": "EP386__ 📎.md"
+    },
+    "387": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-09-27",
+      "title": "🐅",
+      "filename": "EP387__ 🐅.md"
+    },
+    "388": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-09-30",
+      "title": "🥗",
+      "filename": "EP388__ 🥗.md"
+    },
+    "389": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-10-04",
+      "title": "🐸",
+      "filename": "EP389__ 🐸.md"
+    },
+    "390": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-10-07",
+      "title": "🎳",
+      "filename": "EP390__ 🎳.md"
+    },
+    "391": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-10-11",
+      "title": "🎰",
+      "filename": "EP391__ 🎰.md"
+    },
+    "392": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-10-14",
+      "title": "🐕",
+      "filename": "EP392__ 🐕.md"
+    },
+    "393": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-10-18",
+      "title": "🙈",
+      "filename": "EP393__ 🙈.md"
+    },
+    "394": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-10-21",
+      "title": "🐦‍⬛",
+      "filename": "EP394__ 🐦‍⬛.md"
+    },
+    "395": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-10-25",
+      "title": "🧜🏻‍♀️",
+      "filename": "EP395__ 🧜🏻‍♀️.md"
+    },
+    "396": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-10-28",
+      "title": "🐥",
+      "filename": "EP396__ 🐥.md"
+    },
+    "397": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-11-01",
+      "title": "🍼",
+      "filename": "EP397__ 🍼.md"
+    },
+    "398": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-11-04",
+      "title": "🫏",
+      "filename": "EP398__ 🫏.md"
+    },
+    "399": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-11-08",
+      "title": "🤩",
+      "filename": "EP399__ 🤩.md"
+    },
+    "400": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-11-11",
+      "title": "🦉",
+      "filename": "EP400__ 🦉.md"
+    },
+    "401": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-11-15",
+      "title": "🔆",
+      "filename": "EP401__ 🔆.md"
+    },
+    "402": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-11-18",
+      "title": "王姿方你email是空號",
+      "filename": "EP402__ 王姿方你email是空號.md"
+    },
+    "403": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-11-22",
+      "title": "🗿",
+      "filename": "EP403__ 🗿.md"
+    },
+    "404": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-11-25",
+      "title": "🧈",
+      "filename": "EP404__ 🧈.md"
+    },
+    "405": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-11-29",
+      "title": "🕶",
+      "filename": "EP405_transcript_fixed-2_EP405_🕶.md"
+    },
+    "406": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-12-02",
+      "title": "🦀",
+      "filename": "EP406__ 🦀.md"
+    },
+    "407": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-12-06",
+      "title": "🛸",
+      "filename": "EP407__ 🛸.md"
+    },
+    "408": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-12-09",
+      "title": "🦓",
+      "filename": "EP408__ 🦓.md"
+    },
+    "409": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-12-13",
+      "title": "🐪",
+      "filename": "EP409__ 🐪.md"
+    },
+    "410": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-12-16",
+      "title": "💯",
+      "filename": "EP410__ 💯.md"
+    },
+    "411": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-12-20",
+      "title": "⛄",
+      "filename": "EP411__ ⛄.md"
+    },
+    "412": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-12-23",
+      "title": "🫴",
+      "filename": "EP412__ 🫴.md"
+    },
+    "413": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-12-27",
+      "title": "🧑",
+      "filename": "EP413__ 🧑.md"
+    },
+    "414": {
+      "batch": 8,
+      "theme": "Israel-Hamas + Fed pivot + Santa rally",
+      "date": "2023-12-30",
+      "title": "🎆",
+      "filename": "EP414__ 🎆.md"
+    },
+    "415": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-01-03",
+      "title": "😶‍🌫️",
+      "filename": "EP415__ 😶‍🌫️.md"
+    },
+    "416": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-01-06",
+      "title": "🦜",
+      "filename": "EP416__ 🦜.md"
+    },
+    "417": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-01-10",
+      "title": "🐻‍❄️",
+      "filename": "EP417__ 🐻‍❄️.md"
+    },
+    "418": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-01-13",
+      "title": "🤖",
+      "filename": "EP418__ 🤖.md"
+    },
+    "419": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-01-17",
+      "title": "🤮",
+      "filename": "EP419__ 🤮.md"
+    },
+    "420": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-01-20",
+      "title": "🌿",
+      "filename": "EP420__ 🌿.md"
+    },
+    "421": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-01-24",
+      "title": "🪻",
+      "filename": "EP421__ 🪻.md"
+    },
+    "422": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-01-27",
+      "title": "🕸️",
+      "filename": "EP422__ 🕸️.md"
+    },
+    "423": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-01-31",
+      "title": "🦷",
+      "filename": "EP423_transcript_fixed-2_EP423_🦷.md"
+    },
+    "424": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-02-03",
+      "title": "🍳",
+      "filename": "EP424__ 🍳.md"
+    },
+    "425": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-02-07",
+      "title": "🫶",
+      "filename": "EP425__ 🫶.md"
+    },
+    "426": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-02-10",
+      "title": "⭐",
+      "filename": "EP426__ ⭐.md"
+    },
+    "427": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-02-14",
+      "title": "🥽",
+      "filename": "EP427__ 🥽.md"
+    },
+    "428": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-02-17",
+      "title": "🌻",
+      "filename": "EP428__ 🌻.md"
+    },
+    "429": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-02-21",
+      "title": "🥲",
+      "filename": "EP429__ 🥲.md"
+    },
+    "430": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-02-24",
+      "title": "✨",
+      "filename": "EP430__ ✨.md"
+    },
+    "431": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-02-28",
+      "title": "🪸",
+      "filename": "EP431__ 🪸.md"
+    },
+    "432": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-02",
+      "title": "😍",
+      "filename": "EP432__ 😍.md"
+    },
+    "433": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-06",
+      "title": "🐦",
+      "filename": "EP433__ 🐦.md"
+    },
+    "434": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-09",
+      "title": "🅰️",
+      "filename": "EP434__ 🅰️.md"
+    },
+    "435": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-13",
+      "title": "🌲",
+      "filename": "EP435__ 🌲.md"
+    },
+    "436": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-16",
+      "title": "🤖",
+      "filename": "EP436__ 🤖.md"
+    },
+    "437": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-20",
+      "title": "🧳",
+      "filename": "EP437__ 🧳.md"
+    },
+    "438": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-23",
+      "title": "🏐",
+      "filename": "EP438__ 🏐.md"
+    },
+    "439": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-27",
+      "title": "🫃🏾",
+      "filename": "EP439__ 🫃🏾.md"
+    },
+    "440": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-30",
+      "title": "🛌🏼",
+      "filename": "EP440__ 🛌🏼.md"
+    },
+    "441": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-04-03",
+      "title": "🙀",
+      "filename": "EP441__ 🙀.md"
+    },
+    "442": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-04-06",
+      "title": "🤞🏻",
+      "filename": "EP442__ 🤞🏻.md"
+    },
+    "443": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-04-10",
+      "title": "🎩",
+      "filename": "EP443__ 🎩.md"
+    },
+    "444": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-04-13",
+      "title": "🤌",
+      "filename": "EP444__ 🤌.md"
+    },
+    "445": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-04-17",
+      "title": "🥂",
+      "filename": "EP445__ 🥂.md"
+    },
+    "446": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-04-20",
+      "title": "🫐",
+      "filename": "EP446__ 🫐.md"
+    },
+    "447": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-04-24",
+      "title": "🪂",
+      "filename": "EP447__ 🪂.md"
+    },
+    "448": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-04-27",
+      "title": "🌭",
+      "filename": "EP448__ 🌭.md"
+    },
+    "449": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-01",
+      "title": "😸",
+      "filename": "EP449__ 😸.md"
+    },
+    "450": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-04",
+      "title": "🍙",
+      "filename": "EP450__ 🍙.md"
+    },
+    "451": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-08",
+      "title": "🦧",
+      "filename": "EP451__ 🦧.md"
+    },
+    "452": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-11",
+      "title": "🍎",
+      "filename": "EP452__ 🍎.md"
+    },
+    "453": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-15",
+      "title": "🦭",
+      "filename": "EP453__ 🦭.md"
+    },
+    "454": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-18",
+      "title": "🥝",
+      "filename": "EP454__ 🥝.md"
+    },
+    "455": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-22",
+      "title": "⛲",
+      "filename": "EP455__ ⛲.md"
+    },
+    "456": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-25",
+      "title": "🍇",
+      "filename": "EP456__ 🍇.md"
+    },
+    "457": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-05-29",
+      "title": "🪵",
+      "filename": "EP457_🪵.md"
+    },
+    "458": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-01",
+      "title": "♊",
+      "filename": "EP458__ ♊.md"
+    },
+    "459": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-05",
+      "title": "🪶",
+      "filename": "EP459__ 🪶.md"
+    },
+    "460": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-08",
+      "title": "🍟",
+      "filename": "EP460__ 🍟.md"
+    },
+    "461": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-12",
+      "title": "🍘",
+      "filename": "EP461__ 🍘.md"
+    },
+    "462": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-15",
+      "title": "🐊",
+      "filename": "EP462__ 🐊.md"
+    },
+    "463": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-19",
+      "title": "📹",
+      "filename": "EP463__ 📹.md"
+    },
+    "464": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-22",
+      "title": "🧈",
+      "filename": "EP464__ 🧈.md"
+    },
+    "465": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-26",
+      "title": "🪿",
+      "filename": "EP465__ 🪿.md"
+    },
+    "466": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-29",
+      "title": "🍥",
+      "filename": "EP466__ 🍥.md"
+    },
+    "467": {
+      "batch": 9,
+      "theme": "BTC ETF + AI mania peak + Nikkei records",
+      "date": "2024-07-03",
+      "title": "🐟",
+      "filename": "EP467__ 🐟.md"
+    },
+    "468": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-07-06",
+      "title": "🤓",
+      "filename": "EP468__ 🤓.md"
+    },
+    "469": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-07-10",
+      "title": "🐦‍⬛",
+      "filename": "EP469__ 🐦‍⬛.md"
+    },
+    "470": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-07-13",
+      "title": "🌽",
+      "filename": "EP470__ 🌽.md"
+    },
+    "471": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-07-17",
+      "title": "🐴",
+      "filename": "EP471__ 🐴.md"
+    },
+    "472": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-07-20",
+      "title": "🦏",
+      "filename": "EP472__ 🦏.md"
+    },
+    "473": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-07-24",
+      "title": "🌀",
+      "filename": "EP473__ 🌀.md"
+    },
+    "474": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-07-27",
+      "title": "🦉",
+      "filename": "EP474__ 🦉.md"
+    },
+    "475": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-07-31",
+      "title": "🌥️",
+      "filename": "EP475_transcript_fixed-2_EP475_🌥️.md"
+    },
+    "476": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-08-03",
+      "title": "🌼",
+      "filename": "EP476__ 🌼.md"
+    },
+    "477": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-08-07",
+      "title": "👽",
+      "filename": "EP477__ 👽.md"
+    },
+    "478": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-08-10",
+      "title": "🍔",
+      "filename": "EP478__ 🍔.md"
+    },
+    "479": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-08-14",
+      "title": "🍦",
+      "filename": "EP479__ 🍦.md"
+    },
+    "480": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-08-17",
+      "title": "🎨",
+      "filename": "EP480__ 🎨.md"
+    },
+    "481": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-08-21",
+      "title": "🐯",
+      "filename": "EP481__ 🐯.md"
+    },
+    "482": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-08-24",
+      "title": "❤️",
+      "filename": "EP482__ ❤️.md"
+    },
+    "483": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-08-28",
+      "title": "🛖",
+      "filename": "EP483__ 🛖.md"
+    },
+    "484": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-08-31",
+      "title": "🩲",
+      "filename": "EP484__ 🩲.md"
+    },
+    "485": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-09-04",
+      "title": "🌵",
+      "filename": "EP485__ 🌵.md"
+    },
+    "486": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-09-07",
+      "title": "🕷️",
+      "filename": "EP486__ 🕷️.md"
+    },
+    "487": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-09-11",
+      "title": "🍎",
+      "filename": "EP487__ 🍎.md"
+    },
+    "488": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-09-14",
+      "title": "✨",
+      "filename": "EP488__ ✨.md"
+    },
+    "489": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-09-18",
+      "title": "🪔",
+      "filename": "EP489__ 🪔.md"
+    },
+    "490": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-09-21",
+      "title": "🐛",
+      "filename": "EP490__ 🐛.md"
+    },
+    "491": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-09-25",
+      "title": "🦘",
+      "filename": "EP491__ 🦘.md"
+    },
+    "492": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-09-28",
+      "title": "🍌",
+      "filename": "EP492__ 🍌.md"
+    },
+    "493": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-10-02",
+      "title": "🌊",
+      "filename": "EP493__ 🌊.md"
+    },
+    "494": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-10-05",
+      "title": "🍮",
+      "filename": "EP494__ 🍮.md"
+    },
+    "495": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-10-09",
+      "title": "🔥",
+      "filename": "EP495__ 🔥.md"
+    },
+    "496": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-10-12",
+      "title": "😁🤖🥳✌️🚗💥🪦",
+      "filename": "EP496__ 😁🤖🥳✌️🚗💥🪦.md"
+    },
+    "497": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-10-16",
+      "title": "🧤",
+      "filename": "EP497__ 🧤.md"
+    },
+    "498": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-10-19",
+      "title": "🩴",
+      "filename": "EP498__ 🩴.md"
+    },
+    "499": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-10-23",
+      "title": "🃏",
+      "filename": "EP499__ 🃏.md"
+    },
+    "500": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-10-26",
+      "title": "🦀",
+      "filename": "EP500__ 🦀.md"
+    },
+    "501": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-10-30",
+      "title": "🫎",
+      "filename": "EP501_🫎.md"
+    },
+    "502": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-11-02",
+      "title": "🎇",
+      "filename": "EP502__ 🎇.md"
+    },
+    "503": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-11-06",
+      "title": "👶",
+      "filename": "EP503__ 👶.md"
+    },
+    "504": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-11-09",
+      "title": "🛒",
+      "filename": "EP504__ 🛒.md"
+    },
+    "505": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-11-13",
+      "title": "🪂",
+      "filename": "EP505__ 🪂.md"
+    },
+    "506": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-11-16",
+      "title": "🔫",
+      "filename": "EP506__ 🔫.md"
+    },
+    "507": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-11-20",
+      "title": "🌻",
+      "filename": "EP507__ 🌻.md"
+    },
+    "508": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-11-23",
+      "title": "🐆",
+      "filename": "EP508__ 🐆.md"
+    },
+    "509": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-11-27",
+      "title": "🍟",
+      "filename": "EP509__ 🍟.md"
+    },
+    "510": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-11-30",
+      "title": "🪅",
+      "filename": "EP510__ 🪅.md"
+    },
+    "511": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-12-04",
+      "title": "🍸",
+      "filename": "EP511__ 🍸.md"
+    },
+    "512": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-12-07",
+      "title": "🚀",
+      "filename": "EP512__ 🚀.md"
+    },
+    "513": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-12-11",
+      "title": "🦭",
+      "filename": "EP513__ 🦭.md"
+    },
+    "514": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-12-14",
+      "title": "🦎",
+      "filename": "EP514__ 🦎.md"
+    },
+    "515": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-12-18",
+      "title": "🥓",
+      "filename": "EP515__ 🥓.md"
+    },
+    "516": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-12-21",
+      "title": "🐤",
+      "filename": "EP516__ 🐤.md"
+    },
+    "517": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-12-25",
+      "title": "🐧",
+      "filename": "EP517__ 🐧.md"
+    },
+    "518": {
+      "batch": 10,
+      "theme": "Yen carry unwind + Trump wins + BTC $100k",
+      "date": "2024-12-28",
+      "title": "🌴",
+      "filename": "EP518__ 🌴.md"
+    },
+    "519": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-01-01",
+      "title": "💐",
+      "filename": "EP519__ 💐.md"
+    },
+    "520": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-01-04",
+      "title": "🥯",
+      "filename": "EP520__ 🥯.md"
+    },
+    "521": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-01-08",
+      "title": "🥝",
+      "filename": "EP521__ 🥝.md"
+    },
+    "522": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-01-11",
+      "title": "🦔",
+      "filename": "EP522__ 🦔.md"
+    },
+    "523": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-01-15",
+      "title": "🥶",
+      "filename": "EP523__ 🥶.md"
+    },
+    "524": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-01-18",
+      "title": "🎾",
+      "filename": "EP524__ 🎾.md"
+    },
+    "525": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-01-22",
+      "title": "🐍",
+      "filename": "EP525__ 🐍.md"
+    },
+    "526": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-01-25",
+      "title": "🦤",
+      "filename": "EP526__ 🦤.md"
+    },
+    "527": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-01-29",
+      "title": "🐾",
+      "filename": "EP527_🐾.md"
+    },
+    "528": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-02-01",
+      "title": "🦖",
+      "filename": "EP528__ 🦖.md"
+    },
+    "529": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-02-05",
+      "title": "🥏",
+      "filename": "EP529__ 🥏.md"
+    },
+    "530": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-02-08",
+      "title": "🍪",
+      "filename": "EP530__ 🍪.md"
+    },
+    "531": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-02-12",
+      "title": "🪿",
+      "filename": "EP531__ 🪿.md"
+    },
+    "532": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-02-15",
+      "title": "😽",
+      "filename": "EP532__ 😽.md"
+    },
+    "533": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-02-19",
+      "title": "👾",
+      "filename": "EP533__ 👾.md"
+    },
+    "534": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-02-22",
+      "title": "🍋",
+      "filename": "EP534__🍋.md"
+    },
+    "535": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-02-26",
+      "title": "🛟",
+      "filename": "EP535__ 🛟.md"
+    },
+    "536": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-01",
+      "title": "🪼",
+      "filename": "EP536__ 🪼.md"
+    },
+    "537": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-05",
+      "title": "🪱",
+      "filename": "EP537__ 🪱.md"
+    },
+    "538": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-08",
+      "title": "🐟",
+      "filename": "EP538__ 🐟.md"
+    },
+    "539": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-12",
+      "title": "🕊️",
+      "filename": "EP539__ 🕊️.md"
+    },
+    "540": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-15",
+      "title": "🧋",
+      "filename": "EP540__ 🧋.md"
+    },
+    "541": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-19",
+      "title": "🦊",
+      "filename": "EP541__ 🦊.md"
+    },
+    "542": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-22",
+      "title": "🤡",
+      "filename": "EP542__ 🤡.md"
+    },
+    "543": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-26",
+      "title": "🎁",
+      "filename": "EP543__ 🎁.md"
+    },
+    "544": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-29",
+      "title": "🐋",
+      "filename": "EP544__ 🐋.md"
+    },
+    "545": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-04-02",
+      "title": "💥",
+      "filename": "EP545__ 💥.md"
+    },
+    "546": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-04-05",
+      "title": "🕶️",
+      "filename": "EP546__ 🕶️.md"
+    },
+    "547": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-04-09",
+      "title": "🚞",
+      "filename": "EP547__ 🚞.md"
+    },
+    "548": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-04-12",
+      "title": "🌋",
+      "filename": "EP548__ 🌋.md"
+    },
+    "549": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-04-16",
+      "title": "🍄‍🟫",
+      "filename": "EP549__ 🍄‍🟫.md"
+    },
+    "550": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-04-19",
+      "title": "笑阿茲海默 ⛳",
+      "filename": "EP550_笑阿茲海默 ⛳.md"
+    },
+    "551": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-04-23",
+      "title": "🐦",
+      "filename": "EP551__ 🐦.md"
+    },
+    "552": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-04-26",
+      "title": "🪭",
+      "filename": "EP552__ 🪭.md"
+    },
+    "553": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-04-30",
+      "title": "🦨",
+      "filename": "EP553 _ 🦨.md"
+    },
+    "554": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-03",
+      "title": "🐺",
+      "filename": "EP554__ 🐺.md"
+    },
+    "555": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-07",
+      "title": "🐥",
+      "filename": "EP555__ 🐥.md"
+    },
+    "556": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-10",
+      "title": "🦣",
+      "filename": "EP556__ 🦣.md"
+    },
+    "557": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-14",
+      "title": "🐠",
+      "filename": "EP557__ 🐠.md"
+    },
+    "558": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-17",
+      "title": "🌷",
+      "filename": "EP558__ 🌷.md"
+    },
+    "559": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-21",
+      "title": "🫴",
+      "filename": "EP559__ 🫴.md"
+    },
+    "560": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-24",
+      "title": "🪹",
+      "filename": "EP560__ 🪹.md"
+    },
+    "561": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-28",
+      "title": "🦝",
+      "filename": "EP561__ 🦝.md"
+    },
+    "562": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-05-31",
+      "title": "🫛",
+      "filename": "EP562__ 🫛.md"
+    },
+    "563": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-07-04",
+      "title": "🕸️",
+      "filename": "EP563__ 🕸️.md"
+    },
+    "564": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-07-07",
+      "title": "🍙",
+      "filename": "EP564__ 🍙.md"
+    },
+    "565": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-07-11",
+      "title": "🦛",
+      "filename": "EP565__ 🦛.md"
+    },
+    "566": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-07-14",
+      "title": "🌵",
+      "filename": "EP566__ 🌵.md"
+    },
+    "567": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-07-18",
+      "title": "🦒",
+      "filename": "EP567__ 🦒.md"
+    },
+    "568": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-07-21",
+      "title": "🐧",
+      "filename": "EP568__ 🐧.md"
+    },
+    "569": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-07-25",
+      "title": "🐦‍🔥",
+      "filename": "EP569__ 🐦‍🔥.md"
+    },
+    "570": {
+      "batch": 11,
+      "theme": "DeepSeek + Trump tariff shock (April 2025)",
+      "date": "2025-07-28",
+      "title": "🐗",
+      "filename": "EP570__ 🐗.md"
+    },
+    "571": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-07-02",
+      "title": "🦑",
+      "filename": "EP571__ 🦑.md"
+    },
+    "572": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-07-05",
+      "title": "🐌",
+      "filename": "EP572__ 🐌.md"
+    },
+    "573": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-07-09",
+      "title": "🐻‍❄️",
+      "filename": "EP573__ 🐻‍❄️.md"
+    },
+    "574": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-07-12",
+      "title": "🐋",
+      "filename": "EP574__ 🐋.md"
+    },
+    "575": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-07-16",
+      "title": "🥝",
+      "filename": "EP575__ 🥝.md"
+    },
+    "576": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-07-19",
+      "title": "🐛",
+      "filename": "EP576__ 🐛.md"
+    },
+    "577": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-07-23",
+      "title": "🪿",
+      "filename": "EP577__ 🪿.md"
+    },
+    "578": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-07-26",
+      "title": "🐎",
+      "filename": "EP578__ 🐎.md"
+    },
+    "579": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-07-30",
+      "title": "🐔",
+      "filename": "EP579__ 🐔.md"
+    },
+    "580": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-08-02",
+      "title": "🦙",
+      "filename": "EP580__ 🦙.md"
+    },
+    "581": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-08-06",
+      "title": "🫏",
+      "filename": "EP581_ 🫏.md"
+    },
+    "582": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-08-09",
+      "title": "🍔",
+      "filename": "EP582_🍔.md"
+    },
+    "583": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-08-11",
+      "title": "🌲",
+      "filename": "EP583_🌲.md"
+    },
+    "584": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-08-16",
+      "title": "🍅",
+      "filename": "EP584_🍅.md"
+    },
+    "585": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-08-20",
+      "title": "🐊",
+      "filename": "EP585_🐊.md"
+    },
+    "586": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-08-23",
+      "title": "🐐",
+      "filename": "EP586_🐐.md"
+    },
+    "587": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-08-27",
+      "title": "🍯",
+      "filename": "EP587_🍯.md"
+    },
+    "588": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-08-30",
+      "title": "從育兒軍備競賽到技術分析的投資哲學",
+      "filename": "EP588_從育兒軍備競賽到技術分析的投資哲學.md"
+    },
+    "589": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-09-03",
+      "title": "市場震盪中的持股輪動與家庭關係修復",
+      "filename": "EP589_市場震盪中的持股輪動與家庭關係修復.md"
+    },
+    "590": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-09-06",
+      "title": "從生命階段到Broadcom的投資觀察",
+      "filename": "EP590_從生命階段到Broadcom的投資觀察.md"
+    },
+    "591": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-09-10",
+      "title": "兒子住院與NVIDIA新品CPX解析",
+      "filename": "EP591_兒子住院與NVIDIA新品CPX解析.md"
+    },
+    "592": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-09-13",
+      "title": "Radiohead搶票與國巨收購茂達解析",
+      "filename": "EP592_Radiohead搶票與國巨收購茂達解析.md"
+    },
+    "593": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-09-17",
+      "title": "安哥尿尿驚魂與記憶體產業大轉向",
+      "filename": "EP593_安哥尿尿驚魂與記憶體產業大轉向.md"
+    },
+    "594": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-09-20",
+      "title": "安哥認乾媽與NVIDIA入股Intel解析",
+      "filename": "EP594_安哥認乾媽與NVIDIA入股Intel解析.md"
+    },
+    "595": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-09-24",
+      "title": "Nikke競技場勝利與市場垃圾盤觀察",
+      "filename": "EP595_Nikke競技場勝利與市場垃圾盤觀察.md"
+    },
+    "596": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-09-27",
+      "title": "飛利浦咖啡機與Marvel光通訊晶片觀察",
+      "filename": "EP596_飛利浦咖啡機與Marvel光通訊晶片觀察.md"
+    },
+    "597": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-10-01",
+      "title": "育兒感悟與CIS去中化趨勢",
+      "filename": "EP597_育兒感悟與CIS去中化趨勢.md"
+    },
+    "598": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-10-04",
+      "title": "中秋夜市體驗與緯創產業變革",
+      "filename": "EP598_中秋夜市體驗與緯創產業變革.md"
+    },
+    "599": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-10-08",
+      "title": "膽固醇治療追蹤與OpenAI_AMD合作解析",
+      "filename": "EP599_膽固醇治療追蹤與OpenAI_AMD合作解析.md"
+    },
+    "600": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-10-11",
+      "title": "稀土禁令與崩盤應對策略",
+      "filename": "EP600_稀土禁令與崩盤應對策略.md"
+    },
+    "601": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-10-15",
+      "title": "台通舞台劇體驗與Google_TPU供應鏈分析",
+      "filename": "EP601_台通舞台劇體驗與Google_TPU供應鏈分析.md"
+    },
+    "602": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-10-18",
+      "title": "Saily出國網路與核能記憶體投資觀察",
+      "filename": "EP602_Saily出國網路與核能記憶體投資觀察.md"
+    },
+    "603": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-10-22",
+      "title": "善存贊助與Nexperia供應鏈變局",
+      "filename": "EP603_善存贊助與Nexperia供應鏈變局.md"
+    },
+    "604": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-10-25",
+      "title": "優活原力贊助與Tesla財報解析",
+      "filename": "EP604_優活原力贊助與Tesla財報解析.md"
+    },
+    "605": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-10-29",
+      "title": "修麗可贊助與日本家庭旅遊分享",
+      "filename": "EP605_修麗可贊助與日本家庭旅遊分享.md"
+    },
+    "606": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-11-01",
+      "title": "ZZSleeper枕頭贊助與AWS供應鏈分析",
+      "filename": "EP606_ZZSleeper枕頭贊助與AWS供應鏈分析.md"
+    },
+    "607": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-11-05",
+      "title": "NordVPN贊助與烏衫資本成立",
+      "filename": "EP607_NordVPN贊助與烏衫資本成立.md"
+    },
+    "608": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-11-08",
+      "title": "火星生技贊助與記憶體Supercycle分析",
+      "filename": "EP608_火星生技贊助與記憶體Supercycle分析.md"
+    },
+    "609": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-11-12",
+      "title": "Saily贊助與市場策略調整",
+      "filename": "EP609_Saily贊助與市場策略調整.md"
+    },
+    "610": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-11-15",
+      "title": "棉豆腐贊助與抄底策略規劃",
+      "filename": "EP610_棉豆腐贊助與抄底策略規劃.md"
+    },
+    "611": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-11-19",
+      "title": "台通訪談回顧與抄底策略",
+      "filename": "EP611_台通訪談回顧與抄底策略.md"
+    },
+    "612": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-11-22",
+      "title": "聖誕心情與市場恐慌應對策略",
+      "filename": "EP612_聖誕心情與市場恐慌應對策略.md"
+    },
+    "613": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-11-26",
+      "title": "遊戲資本進展與Google供應鏈分析",
+      "filename": "EP613_遊戲資本進展與Google供應鏈分析.md"
+    },
+    "614": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-11-29",
+      "title": "育兒放養哲學與AI變現討論",
+      "filename": "EP614_育兒放養哲學與AI變現討論.md"
+    },
+    "615": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-12-03",
+      "title": "AWS reinvent與散熱供應鏈觀察",
+      "filename": "EP615_AWS reinvent與散熱供應鏈觀察.md"
+    },
+    "616": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-12-06",
+      "title": "後段封裝與EMIB觀察",
+      "filename": "EP616_後段封裝與EMIB觀察.md"
+    },
+    "617": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-12-10",
+      "title": "設備股與軟體股配置心得",
+      "filename": "EP617_設備股與軟體股配置心得.md"
+    },
+    "618": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-12-13",
+      "title": "Broadcom財報與封裝瓶頸觀察",
+      "filename": "EP618_Broadcom財報與封裝瓶頸觀察.md"
+    },
+    "619": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-12-17",
+      "title": "低軌衛星題材與臥底聯盟觀察",
+      "filename": "EP619_低軌衛星題材與臥底聯盟觀察.md"
+    },
+    "620": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-12-20",
+      "title": "AI保險應用與社群爭議回應",
+      "filename": "EP620_AI保險應用與社群爭議回應.md"
+    },
+    "621": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-12-24",
+      "title": "年度回顧與投資心態調整",
+      "filename": "EP621_年度回顧與投資心態調整.md"
+    },
+    "622": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-12-27",
+      "title": "記憶體持續上漲與NVIDIA收購Groq分析",
+      "filename": "EP622_記憶體持續上漲與NVIDIA收購Groq分析.md"
+    },
+    "623": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2025-12-31",
+      "title": "2024年度回顧與2025展望",
+      "filename": "EP623_2024年度回顧與2025展望.md"
+    },
+    "624": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-01-03",
+      "title": "MR體驗與記憶體牆突破的投資想像",
+      "filename": "EP624_MR體驗與記憶體牆突破的投資想像.md"
+    },
+    "625": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-01-07",
+      "title": "從跨年手遊到NVIDIA存儲革命",
+      "filename": "EP625_從跨年手遊到NVIDIA存儲革命.md"
+    },
+    "626": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-01-10",
+      "title": "酒精成癮者的投資哲學",
+      "filename": "EP626_酒精成癮者的投資哲學.md"
+    },
+    "627": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-01-14",
+      "title": "棉豆腐與醫美的自我探索",
+      "filename": "EP627_棉豆腐與醫美的自我探索.md"
+    },
+    "628": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-01-17",
+      "title": "NordVPN贊助與台積電CapEx上修",
+      "filename": "EP628_NordVPN贊助與台積電CapEx上修.md"
+    },
+    "629": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-01-21",
+      "title": "桂格贊助與SpaceX上市題材",
+      "filename": "EP629_桂格贊助與SpaceX上市題材.md"
+    },
+    "630": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-01-24",
+      "title": "衛星股與市場廣度",
+      "filename": "EP630_衛星股與市場廣度.md"
+    },
+    "631": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-01-28",
+      "title": "風險與產業鏈營收佔比",
+      "filename": "EP631_風險與產業鏈營收佔比.md"
+    },
+    "632": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-01-31",
+      "title": "西班牙生活與機器人題材",
+      "filename": "EP632_西班牙生活與機器人題材.md"
+    },
+    "633": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-02-04",
+      "title": "🪢",
+      "filename": "EP633_🪢.md"
+    },
+    "634": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-02-07",
+      "title": "教育選擇與巨頭CapEx",
+      "filename": "EP634_教育選擇與巨頭CapEx.md"
+    },
+    "635": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-02-11",
+      "title": "醫療煎熬與滿倉過年",
+      "filename": "EP635_醫療煎熬與滿倉過年.md"
+    },
+    "636": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-02-14",
+      "title": "峇里島度假與軟體股討論",
+      "filename": "EP636_峇里島度假與軟體股討論.md"
+    },
+    "637": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-02-18",
+      "title": "軟體股大屠殺與AI硬體論",
+      "filename": "EP637_軟體股大屠殺與AI硬體論.md"
+    },
+    "638": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-02-21",
+      "title": "春節遊戲回憶殺與市場不確定性",
+      "filename": "EP638_春節遊戲回憶殺與市場不確定性.md"
+    },
+    "639": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-02-25",
+      "title": "台股萬箭齊發與太陽能翻身契機",
+      "filename": "EP639_台股萬箭齊發與太陽能翻身契機.md"
+    },
+    "640": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-02-28",
+      "title": "AI裁員迷思與被動元件新局",
+      "filename": "EP640_AI裁員迷思與被動元件新局.md"
+    },
+    "641": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-03-04",
+      "title": "中東戰火與光通布局轉向",
+      "filename": "EP641_中東戰火與光通布局轉向.md"
+    },
+    "642": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-03-07",
+      "title": "蘋果以價搶市與光銅之爭",
+      "filename": "EP642_蘋果以價搶市與光銅之爭.md"
+    },
+    "654": {
+      "batch": 12,
+      "theme": "Stablecoin era + AI capex debate + 小徐離開",
+      "date": "2026-04-18",
+      "title": "送別小徐與AI產出價值反思",
+      "filename": "EP654_送別小徐與AI產出價值反思.md"
+    }
+  }
+}
