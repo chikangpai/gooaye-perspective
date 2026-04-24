@@ -41,21 +41,23 @@
 │   ├── merge_research.py                   （nuwa 原版）
 │   └── quality_check.py                    （nuwa 原版）
 │
-├── sources/                                 ← 語料 stub（實際語料在外部，見下方路徑）
-│   └── transcripts/
+├── corpus/                                  ← 原始語料副本（gitignored, 不會推到 public repo）
+│   ├── episodes/                            （662 `EP*.md`）
+│   ├── interview-transcript/                （7 `.md`）
+│   └── episodes.json
 │
 └── SKILL.md                                 ← ⚠️ 尚未生成，Phase D 產出
 ```
 
-### 外部依賴（**不在 skill 目錄內**）
+### 語料位置
 
 | 類型 | 路徑 | 規模 |
 |---|---|---|
-| Podcast transcripts | `/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/episodes/` | 643 `.md` / 36 MB |
-| Interview transcripts | `/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/interview-transcript/` | 7 `.md` / 384 KB |
-| Metadata JSON | `/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/episodes.json` | — |
+| Podcast transcripts | `/Users/chikangpai/code/gooaye-perspective/corpus/episodes/` | 662 `.md` (含 EP655+ 新增 19 集) |
+| Interview transcripts | `/Users/chikangpai/code/gooaye-perspective/corpus/interview-transcript/` | 7 `.md` |
+| Metadata JSON | `/Users/chikangpai/code/gooaye-perspective/corpus/episodes.json` | — |
 
-換機器時這些路徑要重新 remap，見 `RESUMING-ON-NEW-MACHINE.md`。
+語料是從 private repo `chikangpai/gooaye-podcast` 複製進來的，被 `.gitignore` 排除以免污染 public skill repo。換機器時重新複製一份即可（見 `RESUMING-ON-NEW-MACHINE.md`）。
 
 ## 五階段全景
 
@@ -114,5 +116,5 @@
 
 **Q: 能分享給朋友嗎？**
 整個 `~/.claude/skills/gooaye-perspective/` 目錄是 self-contained，可以打包 / git push。但注意：
-- 外部語料（`/Users/chikangpai/Desktop/3-Projects-Gooaye/`）不在其中，朋友收到的 skill 是**已經蒸餾好的成品**，不需要原始語料
-- 若朋友想自己蒸餾則需要自備語料
+- 原始語料（`corpus/`）是 `.gitignore` 掉的、不會隨 public repo 出去。朋友 `git clone` 拿到的 skill 是**已經蒸餾好的成品**，不需要原始語料
+- 若朋友想自己蒸餾需要自備語料（我們家是從 private repo `chikangpai/gooaye-podcast` 複製進來）

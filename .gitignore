@@ -21,3 +21,8 @@ __pycache__/
 *.log
 .tmp/
 scratch/
+
+# Private corpus (copied in from separate private repo chikangpai/gooaye-podcast;
+# contains 662 episode transcripts + interview transcripts; MUST NOT be pushed to
+# this public repo)
+/corpus/

@@ -2,7 +2,7 @@
 
 ## 總覽
 
-- **語料**：643 集 markdown transcript，路徑 `/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/episodes/`
+- **語料**：643 集 markdown transcript，路徑 `/Users/chikangpai/code/gooaye-perspective/corpus/episodes/`
 - **時間範圍**：2020-02-27 (EP1) → 2026-04-18 (EP654)
 - **缺漏**：EP643-EP653（11 集缺檔）、EP162 無日期記錄
 - **蒸餾對象**：謝孟恭（《股癌 Gooaye》主持人 / 主委）
@@ -83,7 +83,7 @@
 ## 12 + 1 個批次的市場 × 人生概況
 
 ### B00 · 外部訪談逐字稿（跨年份、補 04 他者視角）
-- **素材**：`/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/interview-transcript/` 下 7 份
+- **素材**：`/Users/chikangpai/code/gooaye-perspective/corpus/interview-transcript/` 下 7 份
   1. `Interview01_fixed.md`（26K，主持人訪問，2020 年）
   2. `livemk-interview-20190105_誰摔死了李新...`（70K，LiveMK 2019-01-05）— ⚠️ 早於 EP1，蒸餾期前訊號
   3. `法白電台專訪股癌_從法律系到機師再到投資Podcaster.md`（56K）— 最系統的職涯自述

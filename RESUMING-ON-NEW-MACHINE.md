@@ -74,50 +74,45 @@ ls ~/.claude/skills/gooaye-perspective/research-meta/
 # 應看到 batch-index.json + batch-plan.md + phase-b/c/d/e-execution-plan.md
 ```
 
-## 3. 同步語料（關鍵）
+## 3. 補上語料（關鍵）
 
-蒸餾的 **raw 語料不在 skill 目錄內**，必須另外同步。
+Skill repo 是 **public**，所以原始語料（`corpus/`）已加入 `.gitignore`、不會隨 `git clone` 過來。必須另外從 private corpus repo 複製進去。
 
-### 新機器上的語料路徑
+### 目標結構
 
-**原機器路徑**：`/Users/chikangpai/Desktop/3-Projects-Gooaye/gooaye-podcast/`
-
-**新機器上必須確保**：
-- `episodes/`（643 個 `EPxxx_*.md`，36 MB）
-- `interview-transcript/`（7 個 `.md`，384 KB）
-- `episodes.json`（metadata）
-
-### 同步
-
-```bash
-# 若新機器路徑相同，直接 rsync
-rsync -avz -e ssh 原機器IP:/Users/chikangpai/Desktop/3-Projects-Gooaye/ \
-  /Users/chikangpai/Desktop/3-Projects-Gooaye/
-
-# 若新機器路徑不同，修改後檢查：
-export GOOAYE_CORPUS="/NEW/PATH/gooaye-podcast"
-ls $GOOAYE_CORPUS/episodes/ | wc -l    # 應為 643
-ls $GOOAYE_CORPUS/interview-transcript/ | wc -l    # 應為 8 (7+.DS_Store)
+```
+<skill-root>/corpus/
+├── episodes/               （662 `EPxxx_*.md`）
+├── interview-transcript/   （7 `.md`）
+└── episodes.json
 ```
 
-### ⚠️ 路徑差異處理
-
-**如果新機器路徑不同**（不是 `/Users/chikangpai/...`），必須修：
-
-| 檔案 | 要修改的 hardcoded 路徑 |
-|---|---|
-| `research-meta/phase-b-execution-plan.md` | 所有 `/Users/chikangpai/Desktop/...` |
-| `research-meta/batch-plan.md` | `/Users/chikangpai/Desktop/...` 出現處 |
-| `references/sources/gooaye-life-timeline.md` | 若有引用（檢查） |
-| `references/sources/gooaye-classic-episodes.md` | 若有引用（檢查） |
-
-快速全域替換：
+### 從 private repo 複製
 
 ```bash
-# 在新機器
-cd ~/.claude/skills/gooaye-perspective
-grep -rl '/Users/chikangpai/Desktop/3-Projects-Gooaye' . | \
-  xargs sed -i '' 's|/Users/chikangpai/Desktop/3-Projects-Gooaye|/NEW/PATH|g'
+# 先把 private corpus clone 下來（任意位置都可）
+git clone git@github.com:chikangpai/gooaye-podcast.git /tmp/gooaye-podcast
+
+# 複製到 skill 的 corpus/
+SKILL=~/code/gooaye-perspective            # 或 $(readlink ~/.claude/skills/gooaye-perspective)
+mkdir -p "$SKILL/corpus"
+cp -R /tmp/gooaye-podcast/episodes            "$SKILL/corpus/"
+cp -R /tmp/gooaye-podcast/interview-transcript "$SKILL/corpus/"
+cp    /tmp/gooaye-podcast/episodes.json        "$SKILL/corpus/"
+
+# 驗證
+ls "$SKILL/corpus/episodes" | wc -l            # 應 ≥ 662
+ls "$SKILL/corpus/interview-transcript" | wc -l # 應 7+
+```
+
+### ⚠️ Skill 放在不同路徑時
+
+所有計劃檔內 hardcoded 的是 `/Users/chikangpai/code/gooaye-perspective/corpus/...`。若新機器 skill 放在別處，全域替換：
+
+```bash
+cd <new-skill-root>
+grep -rl '/Users/chikangpai/code/gooaye-perspective/corpus' . | \
+  xargs sed -i '' 's|/Users/chikangpai/code/gooaye-perspective|/NEW/PATH|g'
 ```
 
 （macOS: `sed -i ''`；Linux: `sed -i`）
@@ -186,7 +181,7 @@ ls research-meta/phase-*-done.md 2>/dev/null
 
 | 問題 | 解法 |
 |---|---|
-| 找不到 corpus | 確認 `/Users/chikangpai/Desktop/3-Projects-Gooaye/` 是否同步、或 remap 路徑 |
+| 找不到 corpus | 確認 `<skill-root>/corpus/` 有東西；沒有的話從 private repo `chikangpai/gooaye-podcast` 複製進去 |
 | Phase B subagent spawn 失敗 | 檢查 Claude Code permissions；或逐批手動跑 |
 | 某集抓不到 | 可能在缺檔範圍（EP643-653 已知 gap），標記略過 |
 | quality_check.py 報錯 | 見 nuwa 原始 repo `~/.claude/skills/nuwa-skill/` 的 scripts 使用說明 |
